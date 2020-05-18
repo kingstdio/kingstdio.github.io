@@ -31,7 +31,28 @@
   <entry>
     <title>About Me</title>
     <url>/about/index.html</url>
-    <content><![CDATA[<h1 id="史振坤-Zhenkun-Shi"><a href="#史振坤-Zhenkun-Shi" class="headerlink" title="史振坤 (Zhenkun Shi)"></a>史振坤 (Zhenkun Shi)</h1><p>|||||<br>|—–:|:——|:——|:——|:——|<br>|性别：|男|民族：|汉||||<br>|出生年月：|1989-06|民族：|汉||||</p>
+    <content><![CDATA[<h1 id="史振坤-Zhenkun-Shi"><a href="#史振坤-Zhenkun-Shi" class="headerlink" title="史振坤 (Zhenkun Shi)"></a>史振坤 (Zhenkun Shi)</h1><table>
+<thead>
+<tr>
+<th align="right"></th>
+<th align="left"></th>
+<th align="left"></th>
+<th align="left"></th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="right">性别：</td>
+<td align="left">男</td>
+<td align="left">民族：</td>
+<td align="left">汉</td>
+</tr>
+<tr>
+<td align="right">出生年月：</td>
+<td align="left">1989-06</td>
+<td align="left">民族：</td>
+<td align="left">汉</td>
+</tr>
+</tbody></table>
 <blockquote>
 <p>性&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 别：男<br>民&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 族：汉<br>出生年月: 1989-06<br>电子邮箱：<a href="mailto:shandian@vip.qq.com">shandian@vip.qq.com</a><br>联系电话：15200098933</p>
 </blockquote>
