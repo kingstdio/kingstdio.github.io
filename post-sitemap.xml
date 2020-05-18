@@ -8,6 +8,14 @@
     </url>
 
     <url>
+        <loc>http://kingstdio.github.io/2020/05/18/page2/</loc>
+        <lastmod>2020-05-18T13:08:01.883Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>http://kingstdio.github.io/2020/05/18/hello-world/</loc>
         <lastmod>2020-05-18T04:11:34.328Z</lastmod>
         <changefreq>weekly</changefreq>

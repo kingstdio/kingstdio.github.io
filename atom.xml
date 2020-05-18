@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://kingstdio.github.io/"/>
-  <updated>2020-05-18T04:11:34.328Z</updated>
+  <updated>2020-05-18T13:08:01.883Z</updated>
   <id>http://kingstdio.github.io/</id>
   
   <author>
@@ -15,6 +15,21 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>page2</title>
+    <link href="http://kingstdio.github.io/2020/05/18/page2/"/>
+    <id>http://kingstdio.github.io/2020/05/18/page2/</id>
+    <published>2020-05-18T13:08:01.000Z</published>
+    <updated>2020-05-18T13:08:01.883Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
