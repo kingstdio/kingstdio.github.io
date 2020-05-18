@@ -36,26 +36,36 @@
 <tr>
 <th align="right"></th>
 <th align="left"></th>
-<th align="left"></th>
+<th align="right"></th>
 <th align="left"></th>
 </tr>
 </thead>
 <tbody><tr>
 <td align="right">性别：</td>
 <td align="left">男</td>
-<td align="left">民族：</td>
+<td align="right">民族：</td>
 <td align="left">汉</td>
 </tr>
 <tr>
 <td align="right">出生年月：</td>
 <td align="left">1989-06</td>
-<td align="left">民族：</td>
-<td align="left">汉</td>
+<td align="right">籍贯：</td>
+<td align="left">河北</td>
+</tr>
+<tr>
+<td align="right">电子邮箱：</td>
+<td align="left"><a href="mailto:shandian@vip.qq.com">shandian@vip.qq.com</a></td>
+<td align="right"></td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="right">联系电话：</td>
+<td align="left">15200098933</td>
+<td align="right"></td>
+<td align="left"></td>
 </tr>
 </tbody></table>
-<blockquote>
-<p>性&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 别：男<br>民&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 族：汉<br>出生年月: 1989-06<br>电子邮箱：<a href="mailto:shandian@vip.qq.com">shandian@vip.qq.com</a><br>联系电话：15200098933</p>
-</blockquote>
+<h2 id="研究方向"><a href="#研究方向" class="headerlink" title="研究方向"></a>研究方向</h2><p>医疗数据挖掘、社会计算、深度学习、自然语言处理、人工群智</p>
 <h2 id="学习经历"><a href="#学习经历" class="headerlink" title="学习经历"></a>学习经历</h2><table>
 <thead>
 <tr>
