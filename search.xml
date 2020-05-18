@@ -164,4 +164,9 @@
     <url>/tags/index.html</url>
     <content><![CDATA[]]></content>
   </entry>
+  <entry>
+    <title>categories</title>
+    <url>/categories/index.html</url>
+    <content><![CDATA[]]></content>
+  </entry>
 </search>
