@@ -19,11 +19,6 @@
 ]]></content>
   </entry>
   <entry>
-    <title>tags</title>
-    <url>/tags/index.html</url>
-    <content><![CDATA[]]></content>
-  </entry>
-  <entry>
     <title>About Me</title>
     <url>/about/index.html</url>
     <content><![CDATA[<h1 id="Zhenkun-Shi"><a href="#Zhenkun-Shi" class="headerlink" title="Zhenkun Shi"></a>Zhenkun Shi</h1><p>现就读于北京师范大学数学科学学院数学与应用数学专业，曾就读于北京师范大学信息科学与技术学院电子信息科学与技术专业。</p>
@@ -163,5 +158,10 @@
 <li>直到现在还在玩War3，有时会和室友联机 <del> 虐电脑</del>。</li>
 </ul>
 ]]></content>
+  </entry>
+  <entry>
+    <title>tags</title>
+    <url>/tags/index.html</url>
+    <content><![CDATA[]]></content>
   </entry>
 </search>
