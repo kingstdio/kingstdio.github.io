@@ -31,7 +31,9 @@
   <entry>
     <title>About Me</title>
     <url>/about/index.html</url>
-    <content><![CDATA[<h1 id="Zhenkun-Shi"><a href="#Zhenkun-Shi" class="headerlink" title="Zhenkun Shi"></a>Zhenkun Shi</h1><p>就读于吉林大学计算机科学与技术学院计算机应用技术专业。</p>
+    <content><![CDATA[<h1 id="史振坤-Zhenkun-Shi"><a href="#史振坤-Zhenkun-Shi" class="headerlink" title="史振坤 (Zhenkun Shi)"></a>史振坤 (Zhenkun Shi)</h1><blockquote>
+<p>性别：男     </p>
+</blockquote>
 <h2 id="学习经历"><a href="#学习经历" class="headerlink" title="学习经历"></a>学习经历</h2><table>
 <thead>
 <tr>
@@ -71,7 +73,10 @@
 <td align="center"></td>
 </tr>
 </tbody></table>
-<h2 id="学术论文"><a href="#学术论文" class="headerlink" title="学术论文"></a>学术论文</h2>]]></content>
+<h2 id="学术论文"><a href="#学术论文" class="headerlink" title="学术论文"></a>学术论文</h2><h3 id="2020"><a href="#2020" class="headerlink" title="2020"></a>2020</h3><ol>
+<li><strong>Zhenkun Shi</strong>, Wanli Zuo, Shining Liang, Xianglin Zuo*, Lin Yue, Xue Li. IDDSAM: An Integrated Disease Diagnosis and Severity Assessment Model for Intensive Care Units [J]. IEEE Access, 2020, 15423-15435:1-1. (SCI 二区, IF: 4.098, SCI检索号：WOS: 000524741300012).</li>
+</ol>
+]]></content>
   </entry>
   <entry>
     <title>categories</title>
