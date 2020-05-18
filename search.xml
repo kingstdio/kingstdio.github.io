@@ -24,9 +24,11 @@
     <content><![CDATA[]]></content>
       <categories>
         <category>paper</category>
+        <category>self</category>
       </categories>
       <tags>
         <tag>published</tag>
+        <tag>social computing</tag>
       </tags>
   </entry>
   <entry>
@@ -189,6 +191,11 @@
   <entry>
     <title>categories</title>
     <url>/categories/index.html</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title>t2</title>
+    <url>/t2/index.html</url>
     <content><![CDATA[]]></content>
   </entry>
 </search>

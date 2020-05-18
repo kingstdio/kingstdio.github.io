@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://kingstdio.github.io/"/>
-  <updated>2020-05-18T13:19:24.076Z</updated>
+  <updated>2020-05-18T13:23:42.496Z</updated>
   <id>http://kingstdio.github.io/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://kingstdio.github.io/2020/05/18/User%20relation%20prediction%20based%20on%20matrix%20factorization%20and%20hybrid%20particle%20swarm%20optimization/"/>
     <id>http://kingstdio.github.io/2020/05/18/User%20relation%20prediction%20based%20on%20matrix%20factorization%20and%20hybrid%20particle%20swarm%20optimization/</id>
     <published>2020-05-18T13:08:01.000Z</published>
-    <updated>2020-05-18T13:19:24.076Z</updated>
+    <updated>2020-05-18T13:23:42.496Z</updated>
     
     <summary type="html">
     
@@ -30,8 +30,12 @@
     
       <category term="paper" scheme="http://kingstdio.github.io/categories/paper/"/>
     
+      <category term="self" scheme="http://kingstdio.github.io/categories/paper/self/"/>
+    
     
       <category term="published" scheme="http://kingstdio.github.io/tags/published/"/>
+    
+      <category term="social computing" scheme="http://kingstdio.github.io/tags/social-computing/"/>
     
   </entry>
   
