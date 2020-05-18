@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://kingstdio.github.io/"/>
-  <updated>2020-05-18T13:11:37.844Z</updated>
+  <updated>2020-05-18T13:18:08.458Z</updated>
   <id>http://kingstdio.github.io/</id>
   
   <author>
@@ -17,11 +17,11 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>page2</title>
+    <title>User relation prediction based on matrix factorization and hybrid particle swarm optimization</title>
     <link href="http://kingstdio.github.io/2020/05/18/page2/"/>
     <id>http://kingstdio.github.io/2020/05/18/page2/</id>
     <published>2020-05-18T13:08:01.000Z</published>
-    <updated>2020-05-18T13:11:37.844Z</updated>
+    <updated>2020-05-18T13:18:08.458Z</updated>
     
     <summary type="html">
     
@@ -31,7 +31,7 @@
       <category term="paper" scheme="http://kingstdio.github.io/categories/paper/"/>
     
     
-      <category term="selfowned" scheme="http://kingstdio.github.io/tags/selfowned/"/>
+      <category term="published" scheme="http://kingstdio.github.io/tags/published/"/>
     
   </entry>
   
