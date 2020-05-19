@@ -115,6 +115,25 @@
       </tags>
   </entry>
   <entry>
+    <title>Prognosis of Thyroid Disease Using MS-Apriori Improved Decision Tree</title>
+    <url>/2018/05/16/thyroid/</url>
+    <content><![CDATA[<h1 id="使用MS-Apriori改进的决策树来预测甲状腺淋巴癌转移"><a href="#使用MS-Apriori改进的决策树来预测甲状腺淋巴癌转移" class="headerlink" title="使用MS-Apriori改进的决策树来预测甲状腺淋巴癌转移"></a>使用MS-Apriori改进的决策树来预测甲状腺淋巴癌转移</h1><blockquote>
+<p><i class="fas fa-file-signature"></i>   DPrognosis of Thyroid Disease Using MS-Apriori Improved Decision Tree<br><i class="fas fa-bookmark"></i>   KSEM 2018 : The 11th International Conference on Knowledge Science, Engineering and Management<br><i class="far fa-calendar-alt"></i>   Aug 17, 2018 - Aug 19, 2018.<br><i class="fas fa-globe"></i>   Changchun, China.<br><i class="fas fa-user-friends"></i> Yuwei Hao, Wanli Zuo, <strong>Zhenkun Shi*</strong>, Lin Yue, Shuai Xue, Fengling He.   </p>
+</blockquote>
+<h2 id="Abstract"><a href="#Abstract" class="headerlink" title="Abstract"></a>Abstract</h2><p>The lymph nodes metastasis in the papillary thyroid microcarcinoma (PTMC) can lead to a recurrence of cancer. We hope to take preventive mea- sures to reduce the recurrence rate of the thyroid cancer. This paper presents a decision tree improved by MS-Apriori for the prognosis of lymph node metastasis (LNM) in patients with PTMC, called MsaDtd (Decision tree Diagnosis based on MS-Apriori). The method converts the original feature space into a more abundant feature space, MS-Apriori is used to generate association rules that consider rare items by multiple supports and fuzzy logic is introduced to map attribute values to different subintervals. Then, we filter the ranked rules which consider positive and negative tuples. We improve accuracy through deleting disturbance rules. At last, we use the decision tree to predict LNM by analyzing the affiliation between the instance and rules. Clinical-pathological data were obtained from the First Hospital of Jilin University. The results show that the proposed MsaDtd achieves better prediction performance than other methods on the prognosis of LNM.</p>
+<h2 id="Attachment"><a href="#Attachment" class="headerlink" title="Attachment"></a>Attachment</h2><p><i class="fas fa-file-pdf"></i> <a href="/attachements/19_shi_deep_mortality.pdf">Prognosis of Thyroid Disease Using MS-Apriori Improved Decision Tree</a></p>
+]]></content>
+      <categories>
+        <category>paper</category>
+        <category>conference</category>
+      </categories>
+      <tags>
+        <tag>published</tag>
+        <tag>conference</tag>
+        <tag>medical data mining</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>categories</title>
     <url>/categories/index.html</url>
     <content><![CDATA[]]></content>
