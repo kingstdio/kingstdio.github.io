@@ -5,9 +5,9 @@
   <subtitle>担责任，怀天下</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://kingstdio.github.io/"/>
+  <link href="http://shizhenkun.cn/"/>
   <updated>2020-05-18T13:37:56.440Z</updated>
-  <id>http://kingstdio.github.io/</id>
+  <id>http://shizhenkun.cn/</id>
   
   <author>
     <name>史振坤</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Deep Interpretable Mortality Model for Intensive Care Unit Risk Prediction</title>
-    <link href="http://kingstdio.github.io/2020/05/18/Deep%20Interpretable%20Mortality%20Model%20for%20Intensive%20Care%20Unit%20Risk%20Prediction/"/>
-    <id>http://kingstdio.github.io/2020/05/18/Deep%20Interpretable%20Mortality%20Model%20for%20Intensive%20Care%20Unit%20Risk%20Prediction/</id>
+    <link href="http://shizhenkun.cn/2020/05/18/Deep%20Interpretable%20Mortality%20Model%20for%20Intensive%20Care%20Unit%20Risk%20Prediction/"/>
+    <id>http://shizhenkun.cn/2020/05/18/Deep%20Interpretable%20Mortality%20Model%20for%20Intensive%20Care%20Unit%20Risk%20Prediction/</id>
     <published>2020-05-18T04:11:34.328Z</published>
     <updated>2020-05-18T13:37:56.440Z</updated>
     
@@ -28,27 +28,27 @@
     </summary>
     
     
-      <category term="paper" scheme="http://kingstdio.github.io/categories/paper/"/>
+      <category term="paper" scheme="http://shizhenkun.cn/categories/paper/"/>
     
-      <category term="self" scheme="http://kingstdio.github.io/categories/paper/self/"/>
+      <category term="self" scheme="http://shizhenkun.cn/categories/paper/self/"/>
     
     
-      <category term="published" scheme="http://kingstdio.github.io/tags/published/"/>
+      <category term="published" scheme="http://shizhenkun.cn/tags/published/"/>
     
-      <category term="medical data mining" scheme="http://kingstdio.github.io/tags/medical-data-mining/"/>
+      <category term="medical data mining" scheme="http://shizhenkun.cn/tags/medical-data-mining/"/>
     
-      <category term="conference" scheme="http://kingstdio.github.io/tags/conference/"/>
+      <category term="conference" scheme="http://shizhenkun.cn/tags/conference/"/>
     
   </entry>
   
   <entry>
     <title>User relation prediction based on matrix factorization and hybrid particle swarm optimization</title>
-    <link href="http://kingstdio.github.io/2017/04/12/User%20relation%20prediction%20based%20on%20matrix%20factorization%20and%20hybrid%20particle%20swarm%20optimization/"/>
-    <id>http://kingstdio.github.io/2017/04/12/User%20relation%20prediction%20based%20on%20matrix%20factorization%20and%20hybrid%20particle%20swarm%20optimization/</id>
+    <link href="http://shizhenkun.cn/2017/04/12/User%20relation%20prediction%20based%20on%20matrix%20factorization%20and%20hybrid%20particle%20swarm%20optimization/"/>
+    <id>http://shizhenkun.cn/2017/04/12/User%20relation%20prediction%20based%20on%20matrix%20factorization%20and%20hybrid%20particle%20swarm%20optimization/</id>
     <published>2017-04-12T13:08:01.000Z</published>
-    <updated>2020-05-19T04:46:23.122Z</updated>
+    <updated>2020-05-19T05:19:09.874Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="基于矩阵分解和混合粒子群优化的用户关系预测"><a href="#基于矩阵分解和混合粒子群优化的用户关系预测" class="headerlink" title="基于矩阵分解和混合粒子群优化的用户关系预测"></a>基于矩阵分解和混合粒子群优化的用户关系预测</h1><blockquote><p>User relation prediction based on matrix factorization and hybrid particle swarm optimization<br>WWW2017: The 26th World Wide Web Conference<br>fab fa-github April 3, 2017 - April 7, 2017, Perth, Australia</p></blockquote><h2 id="Abstract"><a href="#Abstract" class="headerlink" title="Abstract"></a>Abstract</h2><p>Many real-world domains are relational in nature, consisting of a set of objects related to each other in complex ways. Matrix factorization is an effective method in relationship prediction, However, traditional matrix factorization link prediction methods can only be used for non-negative matrix. In this paper, a generalized framework, itelliPrediction, is presented that is able to deal with positive and negative matrix. The novel itelliPrediction framework is domain independent and with high precision. We validate our approach using two different data sources, an open data sets and a real-word dataset, the result demonstrated that the quality of our approach is comparable to, if not better than, exiting state of the art relation predication framework.</p><p><i class="fa fa-weixin"></i></p>]]></content>
+    <content type="html"><![CDATA[<h1 id="基于矩阵分解和混合粒子群优化的用户关系预测"><a href="#基于矩阵分解和混合粒子群优化的用户关系预测" class="headerlink" title="基于矩阵分解和混合粒子群优化的用户关系预测"></a>基于矩阵分解和混合粒子群优化的用户关系预测</h1><blockquote><p><i class="fas fa-file-signature"></i>   User relation prediction based on matrix factorization and hybrid particle swarm optimization<br><i class="fas fa-bookmark"></i>   WWW2017: The 26th World Wide Web Conference<br><i class="far fa-calendar-alt"></i>   April 3, 2017 - April 7, 2017.<br><i class="fas fa-globe"></i>   Perth, Australia<br><i class="fas fa-user-friends"></i> <strong>Zhenkun Shi</strong>, Wanli Zuo*, Weitong Chen, Lin Yue, Jiayu Han, Lizhou Feng.</p></blockquote><h2 id="Abstract"><a href="#Abstract" class="headerlink" title="Abstract"></a>Abstract</h2><p>Many real-world domains are relational in nature, consisting of a set of objects related to each other in complex ways. Matrix factorization is an effective method in relationship prediction, However, traditional matrix factorization link prediction methods can only be used for non-negative matrix. In this paper, a generalized framework, itelliPrediction, is presented that is able to deal with positive and negative matrix. The novel itelliPrediction framework is domain independent and with high precision. We validate our approach using two different data sources, an open data sets and a real-word dataset, the result demonstrated that the quality of our approach is comparable to, if not better than, exiting state of the art relation predication framework.</p><h2 id="Attachment"><a href="#Attachment" class="headerlink" title="Attachment"></a>Attachment</h2><p><i class="fas fa-file-pdf"></i> <a href="/attachements/17_shi_user_relation.pdf">User relation prediction based on matrix factorization and hybrid particle swarm optimization</a></p>]]></content>
     
     <summary type="html">
     
@@ -60,16 +60,16 @@
     </summary>
     
     
-      <category term="paper" scheme="http://kingstdio.github.io/categories/paper/"/>
+      <category term="paper" scheme="http://shizhenkun.cn/categories/paper/"/>
     
-      <category term="self" scheme="http://kingstdio.github.io/categories/paper/self/"/>
+      <category term="self" scheme="http://shizhenkun.cn/categories/paper/self/"/>
     
     
-      <category term="published" scheme="http://kingstdio.github.io/tags/published/"/>
+      <category term="published" scheme="http://shizhenkun.cn/tags/published/"/>
     
-      <category term="conference" scheme="http://kingstdio.github.io/tags/conference/"/>
+      <category term="conference" scheme="http://shizhenkun.cn/tags/conference/"/>
     
-      <category term="social computing" scheme="http://kingstdio.github.io/tags/social-computing/"/>
+      <category term="social computing" scheme="http://shizhenkun.cn/tags/social-computing/"/>
     
   </entry>
   
