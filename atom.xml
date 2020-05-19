@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://shizhenkun.cn/"/>
-  <updated>2020-05-18T13:37:56.440Z</updated>
+  <updated>2020-05-19T05:32:50.016Z</updated>
   <id>http://shizhenkun.cn/</id>
   
   <author>
@@ -18,19 +18,25 @@
   
   <entry>
     <title>Deep Interpretable Mortality Model for Intensive Care Unit Risk Prediction</title>
-    <link href="http://shizhenkun.cn/2020/05/18/Deep%20Interpretable%20Mortality%20Model%20for%20Intensive%20Care%20Unit%20Risk%20Prediction/"/>
-    <id>http://shizhenkun.cn/2020/05/18/Deep%20Interpretable%20Mortality%20Model%20for%20Intensive%20Care%20Unit%20Risk%20Prediction/</id>
-    <published>2020-05-18T04:11:34.328Z</published>
-    <updated>2020-05-18T13:37:56.440Z</updated>
+    <link href="http://shizhenkun.cn/2019/04/12/Deep%20Interpretable%20Mortality%20Model%20for%20Intensive%20Care%20Unit%20Risk%20Prediction/"/>
+    <id>http://shizhenkun.cn/2019/04/12/Deep%20Interpretable%20Mortality%20Model%20for%20Intensive%20Care%20Unit%20Risk%20Prediction/</id>
+    <published>2019-04-12T13:08:01.000Z</published>
+    <updated>2020-05-19T05:32:50.016Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="深度可解释ICU死亡率预测模型"><a href="#深度可解释ICU死亡率预测模型" class="headerlink" title="深度可解释ICU死亡率预测模型"></a>深度可解释ICU死亡率预测模型</h1><blockquote><p><i class="fas fa-file-signature"></i>   Deep Interpretable Mortality Model for Intensive Care Unit Risk Prediction<br><i class="fas fa-bookmark"></i>   ADMA 2019 : The 15th International Conference on Advanced Data Mining and Applications<br><i class="far fa-calendar-alt"></i>   Nov 21, 2019 - Nov 23, 2019.<br><i class="fas fa-globe"></i>   Dalian, China<br><i class="fas fa-user-friends"></i> <strong>Zhenkun Shi</strong>, Weitong Chen, Shining Liang, Wanli Zuo*, Lin Yue, Sen Wang.</p></blockquote><h2 id="Abstract"><a href="#Abstract" class="headerlink" title="Abstract"></a>Abstract</h2><p>Estimating the mortality of patients plays a fundamental role in an intensive care unit (ICU). Currently, most learning approaches are based on deep learning models. However, these approaches in mor- tality prediction suffer from two problems: (i) the specificity of causes of death are not considered in the learning process due to the differ- ent diseases, and symptoms are mixed-used without diversification and localization; (ii) the learning outcome for the mortality prediction is not self-explainable for the clinicians. In this paper, we propose a Deep Inter- pretable Mortality Model (DIMM), which employs Multi-Source Embed- ding, Gated Recurrent Units (GRU), Attention mechanism and Focal Loss techniques to prognosticate mortality prediction. We intensified the mortality prediction by considering the different clinical measures, med- ical treatments and the heterogeneity of the disease. More importantly, for the first time, in this framework, we use a separate evidence-based interpreter named Highlighter to interpret the prediction model, which makes the prediction understandable and trustworthy to clinicians. We demonstrate that our approach achieves state-of-the-art performance in mortality prediction and can get an interpretable prediction on four dif- ferent diseases.</p><h2 id="Attachment"><a href="#Attachment" class="headerlink" title="Attachment"></a>Attachment</h2><p><i class="fas fa-file-pdf"></i> <a href="/attachements/19_shi_deep_mortality.pdf">Deep Interpretable Mortality Model for Intensive Care Unit Risk Prediction</a></p>]]></content>
     
     <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;深度可解释ICU死亡率预测模型&quot;&gt;&lt;a href=&quot;#深度可解释ICU死亡率预测模型&quot; class=&quot;headerlink&quot; title=&quot;深度可解释ICU死亡率预测模型&quot;&gt;&lt;/a&gt;深度可解释ICU死亡率预测模型&lt;/h1&gt;&lt;blockquote&gt;
+&lt;p&gt;&lt;i cl
+      
     
     </summary>
     
     
       <category term="paper" scheme="http://shizhenkun.cn/categories/paper/"/>
-    
-      <category term="self" scheme="http://shizhenkun.cn/categories/paper/self/"/>
     
     
       <category term="published" scheme="http://shizhenkun.cn/tags/published/"/>

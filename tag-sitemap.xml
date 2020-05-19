@@ -3,29 +3,29 @@
 
 
     <url>
-        <loc>http://shizhenkun.cn/tags/social-computing/</loc>
-        <lastmod>2020-05-19T05:19:09.874Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>http://shizhenkun.cn/tags/conference/</loc>
-        <lastmod>2020-05-19T05:19:09.874Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://shizhenkun.cn/tags/published/</loc>
-        <lastmod>2020-05-19T05:19:09.874Z</lastmod>
+        <lastmod>2020-05-19T05:32:50.016Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>http://shizhenkun.cn/tags/medical-data-mining/</loc>
-        <lastmod>2020-05-18T13:37:56.440Z</lastmod>
+        <lastmod>2020-05-19T05:32:50.016Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://shizhenkun.cn/tags/published/</loc>
+        <lastmod>2020-05-19T05:32:50.016Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://shizhenkun.cn/tags/social-computing/</loc>
+        <lastmod>2020-05-19T05:19:09.874Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
