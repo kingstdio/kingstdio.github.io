@@ -3,8 +3,22 @@
 
 
     <url>
+        <loc>http://kingstdio.github.io/tags/social-computing/</loc>
+        <lastmod>2020-05-19T04:40:31.146Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>http://kingstdio.github.io/tags/conference/</loc>
-        <lastmod>2020-05-18T13:37:56.440Z</lastmod>
+        <lastmod>2020-05-19T04:40:31.146Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://kingstdio.github.io/tags/published/</loc>
+        <lastmod>2020-05-19T04:40:31.146Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -12,20 +26,6 @@
     <url>
         <loc>http://kingstdio.github.io/tags/medical-data-mining/</loc>
         <lastmod>2020-05-18T13:37:56.440Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://kingstdio.github.io/tags/published/</loc>
-        <lastmod>2020-05-18T13:37:56.440Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://kingstdio.github.io/tags/social-computing/</loc>
-        <lastmod>2020-05-18T13:36:45.888Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
