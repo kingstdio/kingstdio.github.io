@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://shizhenkun.cn/"/>
-  <updated>2020-05-19T11:53:03.039Z</updated>
+  <updated>2020-05-19T11:55:14.763Z</updated>
   <id>http://shizhenkun.cn/</id>
   
   <author>
@@ -21,15 +21,15 @@
     <link href="http://shizhenkun.cn/2020/05/13/jointMarkov/"/>
     <id>http://shizhenkun.cn/2020/05/13/jointMarkov/</id>
     <published>2020-05-13T04:48:51.000Z</published>
-    <updated>2020-05-19T11:53:03.039Z</updated>
+    <updated>2020-05-19T11:55:14.763Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="用于ICU病人疾病诊断与病情严重程度评估的一个集成模型"><a href="#用于ICU病人疾病诊断与病情严重程度评估的一个集成模型" class="headerlink" title="用于ICU病人疾病诊断与病情严重程度评估的一个集成模型"></a>用于ICU病人疾病诊断与病情严重程度评估的一个集成模型</h1><blockquote><p><i class="fas fa-file-signature"></i>   Joint Personalized Markov Chains with Social Network Embedding for Cold-Start Recommendation<br><i class="fas fa-bookmark"></i>   Neurocomputing<br><i class="fas fa-user-friends"></i> Yijia Zhang, <strong>Zhenkun Shi*</strong>, Wanli Zuo, Lin Yue, Shining Liang, Xue Li.</p></blockquote><h2 id="Abstract"><a href="#Abstract" class="headerlink" title="Abstract"></a>Abstract</h2><p>The primary objective of recommender systems is to help users select their desired items, where a key challenge is providing high-quality recommendations to users in a “cold-start” situation. Recent advances in tackling this problem combine social relations and temporal information and integrate them into a unified framework. However, these methods suffer from a limitation that there not always exist links for the newcomers, thus these users are filtered in related studies. To break the boundary, in this paper, we propose a Joint Personalized Markov Chains (JPMC) model to address the cold-start issues for implicit feedback recommendation system. In our study, we first utilize user embedding to mine Network Neighbors, so that newcomers without relations can be represented by similar users, then we designed a two-level model based on Markov chains at both user level and user group level respectively to model user preferences dynamically. Experimental results on three real-world datasets have shown that our model can significantly outperform the state-of-the-art models.</p><h2 id="Attachment"><a href="#Attachment" class="headerlink" title="Attachment"></a>Attachment</h2><p><i class="fas fa-file-pdf"></i> <a href="/attachements/20_zhang_jointm.pdf">Joint Personalized Markov Chains with Social Network Embedding for Cold-Start Recommendation</a></p>]]></content>
+    <content type="html"><![CDATA[<h1 id="利用联合个性化的马尔可夫链和社交网络嵌入解决推荐中的冷启动问题"><a href="#利用联合个性化的马尔可夫链和社交网络嵌入解决推荐中的冷启动问题" class="headerlink" title="利用联合个性化的马尔可夫链和社交网络嵌入解决推荐中的冷启动问题"></a>利用联合个性化的马尔可夫链和社交网络嵌入解决推荐中的冷启动问题</h1><blockquote><p><i class="fas fa-file-signature"></i>   Joint Personalized Markov Chains with Social Network Embedding for Cold-Start Recommendation<br><i class="fas fa-bookmark"></i>   Neurocomputing<br><i class="fas fa-user-friends"></i> Yijia Zhang, <strong>Zhenkun Shi*</strong>, Wanli Zuo, Lin Yue, Shining Liang, Xue Li.</p></blockquote><h2 id="Abstract"><a href="#Abstract" class="headerlink" title="Abstract"></a>Abstract</h2><p>The primary objective of recommender systems is to help users select their desired items, where a key challenge is providing high-quality recommendations to users in a “cold-start” situation. Recent advances in tackling this problem combine social relations and temporal information and integrate them into a unified framework. However, these methods suffer from a limitation that there not always exist links for the newcomers, thus these users are filtered in related studies. To break the boundary, in this paper, we propose a Joint Personalized Markov Chains (JPMC) model to address the cold-start issues for implicit feedback recommendation system. In our study, we first utilize user embedding to mine Network Neighbors, so that newcomers without relations can be represented by similar users, then we designed a two-level model based on Markov chains at both user level and user group level respectively to model user preferences dynamically. Experimental results on three real-world datasets have shown that our model can significantly outperform the state-of-the-art models.</p><h2 id="Attachment"><a href="#Attachment" class="headerlink" title="Attachment"></a>Attachment</h2><p><i class="fas fa-file-pdf"></i> <a href="/attachements/20_zhang_jointm.pdf">Joint Personalized Markov Chains with Social Network Embedding for Cold-Start Recommendation</a></p>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;h1 id=&quot;用于ICU病人疾病诊断与病情严重程度评估的一个集成模型&quot;&gt;&lt;a href=&quot;#用于ICU病人疾病诊断与病情严重程度评估的一个集成模型&quot; class=&quot;headerlink&quot; title=&quot;用于ICU病人疾病诊断与病情严重程度评估的一个集成模型&quot;&gt;&lt;/a&gt;用于ICU
+        &lt;h1 id=&quot;利用联合个性化的马尔可夫链和社交网络嵌入解决推荐中的冷启动问题&quot;&gt;&lt;a href=&quot;#利用联合个性化的马尔可夫链和社交网络嵌入解决推荐中的冷启动问题&quot; class=&quot;headerlink&quot; title=&quot;利用联合个性化的马尔可夫链和社交网络嵌入解决推荐中的冷启动问
       
     
     </summary>
