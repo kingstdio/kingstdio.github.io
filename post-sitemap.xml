@@ -8,6 +8,14 @@
     </url>
 
     <url>
+        <loc>http://shizhenkun.cn/2019/11/11/DIMM/</loc>
+        <lastmod>2020-05-19T12:53:36.677Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>http://shizhenkun.cn/2019/04/25/dmmam/</loc>
         <lastmod>2020-05-19T12:49:31.753Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -58,14 +66,6 @@
     <url>
         <loc>http://shizhenkun.cn/2017/04/12/User%20relation%20prediction%20based%20on%20matrix%20factorization%20and%20hybrid%20particle%20swarm%20optimization/</loc>
         <lastmod>2020-05-19T05:45:52.902Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>http://shizhenkun.cn/2019/11/11/Deep%20Interpretable%20Mortality%20Model%20for%20Intensive%20Care%20Unit%20Risk%20Prediction/</loc>
-        <lastmod>2020-05-19T05:36:30.350Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
