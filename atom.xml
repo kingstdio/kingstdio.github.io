@@ -46,9 +46,9 @@
     <link href="http://kingstdio.github.io/2017/04/12/User%20relation%20prediction%20based%20on%20matrix%20factorization%20and%20hybrid%20particle%20swarm%20optimization/"/>
     <id>http://kingstdio.github.io/2017/04/12/User%20relation%20prediction%20based%20on%20matrix%20factorization%20and%20hybrid%20particle%20swarm%20optimization/</id>
     <published>2017-04-12T13:08:01.000Z</published>
-    <updated>2020-05-19T04:40:31.146Z</updated>
+    <updated>2020-05-19T04:46:23.122Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="基于矩阵分解和混合粒子群优化的用户关系预测"><a href="#基于矩阵分解和混合粒子群优化的用户关系预测" class="headerlink" title="基于矩阵分解和混合粒子群优化的用户关系预测"></a>基于矩阵分解和混合粒子群优化的用户关系预测</h1><blockquote><p>User relation prediction based on matrix factorization and hybrid particle swarm optimization<br>WWW2017: The 26th World Wide Web Conference<br>April 3, 2017 - April 7, 2017, Perth, Australia</p></blockquote>]]></content>
+    <content type="html"><![CDATA[<h1 id="基于矩阵分解和混合粒子群优化的用户关系预测"><a href="#基于矩阵分解和混合粒子群优化的用户关系预测" class="headerlink" title="基于矩阵分解和混合粒子群优化的用户关系预测"></a>基于矩阵分解和混合粒子群优化的用户关系预测</h1><blockquote><p>User relation prediction based on matrix factorization and hybrid particle swarm optimization<br>WWW2017: The 26th World Wide Web Conference<br>fab fa-github April 3, 2017 - April 7, 2017, Perth, Australia</p></blockquote><h2 id="Abstract"><a href="#Abstract" class="headerlink" title="Abstract"></a>Abstract</h2><p>Many real-world domains are relational in nature, consisting of a set of objects related to each other in complex ways. Matrix factorization is an effective method in relationship prediction, However, traditional matrix factorization link prediction methods can only be used for non-negative matrix. In this paper, a generalized framework, itelliPrediction, is presented that is able to deal with positive and negative matrix. The novel itelliPrediction framework is domain independent and with high precision. We validate our approach using two different data sources, an open data sets and a real-word dataset, the result demonstrated that the quality of our approach is comparable to, if not better than, exiting state of the art relation predication framework.</p><p><i class="fa fa-weixin"></i></p>]]></content>
     
     <summary type="html">
     
