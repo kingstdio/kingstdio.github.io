@@ -35,9 +35,9 @@
     
       <category term="published" scheme="http://kingstdio.github.io/tags/published/"/>
     
-      <category term="social computing" scheme="http://kingstdio.github.io/tags/social-computing/"/>
-    
       <category term="conference" scheme="http://kingstdio.github.io/tags/conference/"/>
+    
+      <category term="social computing" scheme="http://kingstdio.github.io/tags/social-computing/"/>
     
   </entry>
   
@@ -60,9 +60,9 @@
     
       <category term="published" scheme="http://kingstdio.github.io/tags/published/"/>
     
-      <category term="conference" scheme="http://kingstdio.github.io/tags/conference/"/>
-    
       <category term="medical data mining" scheme="http://kingstdio.github.io/tags/medical-data-mining/"/>
+    
+      <category term="conference" scheme="http://kingstdio.github.io/tags/conference/"/>
     
   </entry>
   
