@@ -81,4 +81,37 @@
     
   </entry>
   
+  <entry>
+    <title>Multi-factors-based sentence ordering for cross-document fusion from multimodal content</title>
+    <link href="http://shizhenkun.cn/2017/03/27/Multi-factors-based%20sentence%20ordering%20for%20cross-document%20fusion%20from%20multimodal%20content/"/>
+    <id>http://shizhenkun.cn/2017/03/27/Multi-factors-based%20sentence%20ordering%20for%20cross-document%20fusion%20from%20multimodal%20content/</id>
+    <published>2017-03-27T05:32:23.000Z</published>
+    <updated>2020-05-19T05:53:43.287Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="深度可解释ICU死亡率预测模型"><a href="#深度可解释ICU死亡率预测模型" class="headerlink" title="深度可解释ICU死亡率预测模型"></a>深度可解释ICU死亡率预测模型</h1><blockquote><p><i class="fas fa-file-signature"></i>   Multi-factors-based sentence ordering for cross-document fusion from multimodal content<br><i class="fas fa-bookmark"></i>  Neurocomputing<br><i class="fas fa-user-friends"></i> Lin Yue, <strong>Zhenkun Shi</strong>, Jiayu Han, Sen Wang, Weitong Chen, Wanli Zuo*. </p></blockquote><h2 id="Abstract"><a href="#Abstract" class="headerlink" title="Abstract"></a>Abstract</h2><p>Organizing a coherent structure of the sentences extracted from multiple documents, guarantees the fluency and readability of the fused document. In this paper, sentence ordering problem is treated as a combinatorial optimization problem and solved with continuous Hopfield neural network (CHNN). We unify the existing factors by considering the most frequent orders temporal information, and topical relevance between local themes during overall ordering process. Specifically, ordering algorithm traverses all the local themes and locates a shortest path as the final sentence ordering. We show the results with data from Document Understanding Conferences (DUC) 2002–2005, and demonstrate the effectiveness of the developed approach compared with Random Ordering (RO), Chronological Ordering (CO), Majority Ordering (MO), and Precedence Relation Ordering (PRO).</p><h2 id="Attachment"><a href="#Attachment" class="headerlink" title="Attachment"></a>Attachment</h2><p><i class="fas fa-file-pdf"></i> <a href="/attachements/17_yue_document.pdf">Multi-factors-based sentence ordering for cross-document fusion from multimodal content</a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;深度可解释ICU死亡率预测模型&quot;&gt;&lt;a href=&quot;#深度可解释ICU死亡率预测模型&quot; class=&quot;headerlink&quot; title=&quot;深度可解释ICU死亡率预测模型&quot;&gt;&lt;/a&gt;深度可解释ICU死亡率预测模型&lt;/h1&gt;&lt;blockquote&gt;
+&lt;p&gt;&lt;i cl
+      
+    
+    </summary>
+    
+    
+      <category term="paper" scheme="http://shizhenkun.cn/categories/paper/"/>
+    
+      <category term="journal" scheme="http://shizhenkun.cn/categories/paper/journal/"/>
+    
+    
+      <category term="published" scheme="http://shizhenkun.cn/tags/published/"/>
+    
+      <category term="conference" scheme="http://shizhenkun.cn/tags/conference/"/>
+    
+      <category term="NLP" scheme="http://shizhenkun.cn/tags/NLP/"/>
+    
+  </entry>
+  
 </feed>

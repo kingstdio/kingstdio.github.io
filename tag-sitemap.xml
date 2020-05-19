@@ -3,21 +3,28 @@
 
 
     <url>
-        <loc>http://shizhenkun.cn/tags/conference/</loc>
-        <lastmod>2020-05-19T05:36:30.350Z</lastmod>
+        <loc>http://shizhenkun.cn/tags/NLP/</loc>
+        <lastmod>2020-05-19T05:53:43.287Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>http://shizhenkun.cn/tags/medical-data-mining/</loc>
-        <lastmod>2020-05-19T05:36:30.350Z</lastmod>
+        <loc>http://shizhenkun.cn/tags/conference/</loc>
+        <lastmod>2020-05-19T05:53:43.287Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>http://shizhenkun.cn/tags/published/</loc>
+        <lastmod>2020-05-19T05:53:43.287Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://shizhenkun.cn/tags/medical-data-mining/</loc>
         <lastmod>2020-05-19T05:36:30.350Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
