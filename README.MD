@@ -2,10 +2,10 @@
 title: About Me
 layout: about
 comments: false
-date: 2020-05-18 18:26:58
+date: 2020-12-24 10:26:58
 ---
 
-# 史振坤 (Zhenkun Shi) 个人主页
+# 史振坤 (Zhenkun Shi)
 
 | | | | | 
 |-----:|:-----|-----:|:-----|
@@ -17,8 +17,14 @@ date: 2020-05-18 18:26:58
 
 ## 研究方向
 
-医疗数据挖掘、社会计算、深度学习、自然语言处理、人工群智
+人工智能生物学、医疗数据挖掘、社会计算、深度学习、自然语言处理、人工群智
 <br/>
+
+## 工作经历
+
+|时间|单位|职位|导师|
+|:---------:|:--------------:|:--------------:|:--------------:|
+|2020.12 - 至今|中国科学院天津工业生物研究所|博士后|马红武、廖小平|
 
 
 ## 学习经历
@@ -26,7 +32,7 @@ date: 2020-05-18 18:26:58
 
 |时间|学校|专业|学历|导师
 |:---------:|:--------------:|:--------------:|:--------------:|:--------------:|
-|2016.09 - 至今|吉林大学计算机科学与技术学院|计算机应用技术|博士|左万利
+|2016.09 - 2020.12|吉林大学计算机科学与技术学院|计算机应用技术|博士|左万利
 |2017.11 - 2019.12|The University of Queensland，Australia|医疗数据挖掘|CSC联培博士| Xue Li
 |2014.06 - 2016.09|吉林大学计算机科学与计算机学院|计算机技术|硕士|赫风龄
 |2009.09 - 2013.07|河北农业大学信息科学与技术学院|软件工程|本科|
@@ -34,16 +40,21 @@ date: 2020-05-18 18:26:58
 
 ## 学术论文
 
+### 2021
+1. **Zhenkun Shi**, Sen Wang, Lin Yue, Lixin Pang, Xianglin Zuo, Wanli Zuo, Xue Li. Deep dynamic imputation of clinical time series for mortality prediction[J]. Information Sciences, 2021, 579: 607-622 (SCI 1区， WOS:000701122700013, IF:6.795).
+
 ### 2020
-1. **Zhenkun Shi**, Wanli Zuo, Shining Liang, Xianglin Zuo*, Lin Yue, Xue Li. IDDSAM: An Integrated Disease Diagnosis and Severity Assessment Model for Intensive Care Units [J]. IEEE Access, 2020, 15423-15435:1-1. (SCI 二区, IF: 4.098, SCI检索号：WOS: 000524741300012).
+1. **Zhenkun Shi**, Wanli Zuo, Shining Liang, Xianglin Zuo*, Lin Yue, Xue Li. IDDSAM: An Integrated Disease Diagnosis and Severity Assessment Model for Intensive Care Units [J]. IEEE Access, 2020, 15423-15435:1-1. (SCI 二区, IF: 4.098, WOS: 000524741300012).
 
 2. Yijia Zhang, **Zhenkun Shi***, Wanli Zuo, Lin Yue, Shining Liang, Xue Li. Joint Personalized Markov Chains with Social Network Embedding for Cold-Start Recommendation[J]. Neurocomputing, 2020, 386: 208-220. (SCI 二区, IF: 4.072)
+
+3. Suresh Pokharel, **Zhenkun Shi***., Guido Zuccon, & Yu Li. (2020, November). Discriminative Features Generation for Mortality Prediction in ICU. In International Conference on Advanced Data Mining and Applications (pp. 324-338). Springer, Cham (WOS: 000723588900025).
 
 ### 2019
 
 1. **Zhenkun Shi**, Wanli Zuo, Weitong Chen, Lin Yue, Yuwei Hao, Shining Liang*. DMMAM: Deep Multi-Source Multi-Task Attention Model for Intensive Care Unit Diagnosis [C]. Lecture Notes In International Conference on Database Systems for Advanced Applications, 53-69. Springer, Cham, 2019. (SCI 会议, SCI检索号：WOS:000485172700004, CCF推荐B类会议).
 
-2. **Zhenkun Shi**, Weitong Chen, Shining Liang, Wanli Zuo*, Lin Yue, Sen Wang. Deep Interpretable Mortality Model for Intensive Care Unit Risk Prediction [C]. International Conference on Advanced Data Mining and Applications. Springer, Cham, 2019: 617-631. (EI: 20195107875335).
+2. **Zhenkun Shi**, Weitong Chen, Shining Liang, Wanli Zuo*, Lin Yue, Sen Wang. Deep Interpretable Mortality Model for Intensive Care Unit Risk Prediction [C]. International Conference on Advanced Data Mining and Applications. Springer, Cham, 2019: 617-631. (WOS: 000582483200045).
 
 
 ### 2018
@@ -57,7 +68,7 @@ date: 2020-05-18 18:26:58
 
 ### 2017
 
-1. **Zhenkun Shi**, Wanli Zuo*, Weitong Chen, Lin Yue, Jiayu Han, Lizhou Feng. User relation prediction based on matrix factorization and hybrid particle swarm optimization [C]. Proceedings of the 26th International Conference on World Wide Web Companion. 2017: 1335-1341. (CCF推荐A类会议).
+1. **Zhenkun Shi**, Wanli Zuo*, Weitong Chen, Lin Yue, Jiayu Han, Lizhou Feng. User relation prediction based on matrix factorization and hybrid particle swarm optimization [C]. Proceedings of the 26th International Conference on World Wide Web Companion. 2017: 1335-1341. (CCF推荐A类会议, EI:20190406414726).
 
 2. Lin Yue, **Zhenkun Shi**, Jiayu Han, Sen Wang, Weitong Chen, Wanli Zuo*. Multi-factors-based sentence ordering for cross-document fusion from multimodal content[J]. Neurocomputing, 2017, 253: 6-14. (SCI 二区, IF: 4.098, SCI检索号： WOS: 000403636200002).
 
@@ -91,17 +102,15 @@ date: 2020-05-18 18:26:58
 5. 史振坤. 河北省优秀学生干部，2012-03，省部级。
 5. 赵艳红、史振坤、宋永生. “河北省第十五届教育软件大赛”高等教育组三等奖, 2011-09, 省部级。
 
-## 工作经历
 
-|时间|单位|职位|主管|
+## 工程项目
+
+
+|时间|项目|单位|任务|
 |:---------:|:--------------:|:--------------:|:--------------:|
-|2016.09 - 至今|吉林大学 计算机科学与技术学院|博士生兼职辅导员|白江|
-|2015.09 - 至今|吉林大学 学生工作部|信息化建设专员|邹丽伟|
-|2019.08 - 2019.12|澳大利亚昆士兰大学|云计算课程 助教|Sen Wang|
-|2018.08 - 2018.12|澳大利亚昆士兰大学|云计算课程 助教|Xue Li|
-|2015.03 - 2017.10|吉林大学 研究生创新中心|宣传部副部长|孟勐|
-|2014.09 - 2016.09|吉林大学 注册与考试中心|学生助管|董英男|
-
-
-
-
+|2019.05 - 2019-07| 寒地城市空间绩效可视化评价与决策支持平台 |吉林建筑大学建筑与规划学院|总负责人|
+|2017.06 - 2019-03| Workdeliver 跨境工作匹配平台 |中诚惠泽(北京)科技发展有限公司|开发总负责人|
+|2016.09 - 2017-05| 吉林省消防总队政治工作信息网 |吉林省消防总队|总负责人|
+|2016.11 - 2017-02| 吉林大学网站集群迁移项目 |吉林大学软件学院、东北亚研究院、学生工作部、注册与考试中心、智慧海洋研究院|总负责人|
+|2013.12 - 2014-11| 国产贴片机工业控制系统 |北京博瑞精电科技有限公司|项目负责人|
+|2010.06 - 2012-05| 河北农业大学部门主页门户集群 |河北农业大学网络中心|设计开发人员|

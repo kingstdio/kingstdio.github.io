@@ -1,30 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>Deep Interpretable Mortality Model for Intensive Care Unit Risk Prediction</title>
-    <url>/2019/11/11/DIMM/</url>
-    <content><![CDATA[<h1 id="深度可解释ICU死亡率预测模型"><a href="#深度可解释ICU死亡率预测模型" class="headerlink" title="深度可解释ICU死亡率预测模型"></a>深度可解释ICU死亡率预测模型</h1><blockquote>
-<p><i class="fas fa-file-signature"></i>   Deep Interpretable Mortality Model for Intensive Care Unit Risk Prediction<br><i class="fas fa-bookmark"></i>   ADMA 2019 : The 15th International Conference on Advanced Data Mining and Applications<br><i class="far fa-calendar-alt"></i>   Nov 21, 2019 - Nov 23, 2019.<br><i class="fas fa-globe"></i>   Dalian, China<br><i class="fas fa-user-friends"></i> <strong>Zhenkun Shi</strong>, Weitong Chen, Shining Liang, Wanli Zuo*, Lin Yue, Sen Wang.</p>
-</blockquote>
-<h2 id="Abstract"><a href="#Abstract" class="headerlink" title="Abstract"></a>Abstract</h2><p>Estimating the mortality of patients plays a fundamental role in an intensive care unit (ICU). Currently, most learning approaches are based on deep learning models. However, these approaches in mor- tality prediction suffer from two problems: (i) the specificity of causes of death are not considered in the learning process due to the differ- ent diseases, and symptoms are mixed-used without diversification and localization; (ii) the learning outcome for the mortality prediction is not self-explainable for the clinicians. In this paper, we propose a Deep Inter- pretable Mortality Model (DIMM), which employs Multi-Source Embed- ding, Gated Recurrent Units (GRU), Attention mechanism and Focal Loss techniques to prognosticate mortality prediction. We intensified the mortality prediction by considering the different clinical measures, med- ical treatments and the heterogeneity of the disease. More importantly, for the first time, in this framework, we use a separate evidence-based interpreter named Highlighter to interpret the prediction model, which makes the prediction understandable and trustworthy to clinicians. We demonstrate that our approach achieves state-of-the-art performance in mortality prediction and can get an interpretable prediction on four dif- ferent diseases.</p>
-<h2 id="Attachment"><a href="#Attachment" class="headerlink" title="Attachment"></a>Attachment</h2><p><i class="fas fa-file-pdf"></i> <a href="/attachements/19_shi_deep_mortality.pdf">Deep Interpretable Mortality Model for Intensive Care Unit Risk Prediction</a></p>
-]]></content>
-      <categories>
-        <category>paper</category>
-        <category>conference</category>
-      </categories>
-      <tags>
-        <tag>published</tag>
-        <tag>medical data mining</tag>
-        <tag>conference</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>IDDSAM &amp;#58; An Integrated Disease Diagnosis and Severity Assessment Model for Intensive Care Units</title>
     <url>/2020/05/18/IDDSAM/</url>
     <content><![CDATA[<h1 id="用于ICU病人疾病诊断与病情严重程度评估的一个集成模型"><a href="#用于ICU病人疾病诊断与病情严重程度评估的一个集成模型" class="headerlink" title="用于ICU病人疾病诊断与病情严重程度评估的一个集成模型"></a>用于ICU病人疾病诊断与病情严重程度评估的一个集成模型</h1><blockquote>
 <p><i class="fas fa-file-signature"></i>   IDDSAM &#58; An Integrated Disease Diagnosis and Severity Assessment Model for Intensive Care Units<br><i class="fas fa-bookmark"></i>   IEEE Access<br><i class="fas fa-user-friends"></i> <strong>Zhenkun Shi</strong>, Wanli Zuo, Shining Liang, Xianglin Zuo*, Lin Yue, Xue Li.</p>
 </blockquote>
+<a id="more"></a>
+
 <h2 id="Abstract"><a href="#Abstract" class="headerlink" title="Abstract"></a>Abstract</h2><p>People are admitted to intensive care units (ICUs) because they need complete support for failing organ systems, constant monitoring, routine nursing care, and treatment. A critical or intensive illness is different from conventional or chronic diseases that most people are likely to have previously encountered. Such an illness is often unexpected and without warnings and can suddenly strike the previously fit. High levels of treatment and support are generally required to prevent life-threatening complications for the patents. Two of the most noticeable actions during an ICU stay are disease diagnosis and severity assessment of the patients. Unlike the majority of previous approaches where diagnosis and severity assessment are studied separately, we treat these actions as two tasks in an integrated procedure that clinicians must be able to quickly and accurately conduct such that patients are given the best possible chance for therapeutic success. In this paper, we propose an integrated disease diagnosis and severity assessment model (IDDSAM) to diagnose and assess diseases. Moreover, accompanying the prediction, we also provide an evidence-based explanation. IDDSAM is a multisource multitask model that is based on an attention mechanism and utilizes shareable information from laboratory tests, bedside monitoring, and complications to support patients’ severity assessment and in-hospital disease diagnoses. We use 50,430 ICU cases consisting of 46,520 patients from 50 kinds of diseases over nine classifications to evaluate our proposed model. The experimental results demonstrated that our model outperforms the existing state-of-the-art mortality and diagnosis prediction framework by 3.79% on average in terms of accuracy for the mortality prediction tasks and by 14.51% on average for the diagnosis tasks.</p>
 <h2 id="Attachment"><a href="#Attachment" class="headerlink" title="Attachment"></a>Attachment</h2><p><i class="fas fa-file-pdf"></i> <a href="/attachements/20_shi_iddsam.pdf">IDDSAM &#58; An Integrated Disease Diagnosis and Severity Assessment Model for Intensive Care Units</a></p>
 ]]></content>
@@ -39,13 +22,15 @@
       </tags>
   </entry>
   <entry>
-    <title>DMMAM &amp;#58; Deep Multi-Source Multi-Task Attention Model for Intensive Care Unit Diagnosis</title>
-    <url>/2019/04/25/dmmam/</url>
-    <content><![CDATA[<h1 id="基于Attention的多源多任务ICU疾病诊断模型"><a href="#基于Attention的多源多任务ICU疾病诊断模型" class="headerlink" title="基于Attention的多源多任务ICU疾病诊断模型"></a>基于Attention的多源多任务ICU疾病诊断模型</h1><blockquote>
-<p><i class="fas fa-file-signature"></i>   DMMAM &#58; Deep Multi-Source Multi-Task Attention Model for Intensive Care Unit Diagnosis<br><i class="fas fa-bookmark"></i>   DASFAA 2019: Database Systems for Advanced Applications<br><i class="far fa-calendar-alt"></i>   Apr 22, 2019 - Apr 25, 2019.<br><i class="fas fa-globe"></i>   Chiang Mai, Thailand<br><i class="fas fa-user-friends"></i> <strong>Zhenkun Shi</strong>, Wanli Zuo, Weitong Chen, Lin Yue, Yuwei Hao, Shining Liang*.</p>
+    <title>Deep Interpretable Mortality Model for Intensive Care Unit Risk Prediction</title>
+    <url>/2019/11/11/DIMM/</url>
+    <content><![CDATA[<h1 id="深度可解释ICU死亡率预测模型"><a href="#深度可解释ICU死亡率预测模型" class="headerlink" title="深度可解释ICU死亡率预测模型"></a>深度可解释ICU死亡率预测模型</h1><blockquote>
+<p><i class="fas fa-file-signature"></i>   Deep Interpretable Mortality Model for Intensive Care Unit Risk Prediction<br><i class="fas fa-bookmark"></i>   ADMA 2019 : The 15th International Conference on Advanced Data Mining and Applications<br><i class="far fa-calendar-alt"></i>   Nov 21, 2019 - Nov 23, 2019.<br><i class="fas fa-globe"></i>   Dalian, China<br><i class="fas fa-user-friends"></i> <strong>Zhenkun Shi</strong>, Weitong Chen, Shining Liang, Wanli Zuo*, Lin Yue, Sen Wang.</p>
 </blockquote>
-<h2 id="Abstract"><a href="#Abstract" class="headerlink" title="Abstract"></a>Abstract</h2><p>Disease diagnosis can provide crucial information for clin- ical decisions that influence the outcome in acute serious illness, and this is particularly in the intensive care unit (ICU). However, the cen- tral role of diagnosis in clinical practice is challenged by evidence that does not always benefit patients and that factors other than disease are important in determining patient outcome. To streamline the diagnos- tic process in daily routine and avoid misdiagnoses, in this paper, we proposed a deep multi-source multi-task attention model (DMMAM) for ICU disease diagnosis. DMMAM exploits multi-sources information from various types of complications, clinical measurements, and the medical treatments to support the diagnosis. We evaluate the proposed model with 50 diseases of 9 classifications on an extensive collection of real- world ICU Electronic Health Records (EHR) dataset with 151729 ICU admissions from 46520 patients. Experiments results demonstrate the effectiveness and the robustness of our model.</p>
-<h2 id="Attachment"><a href="#Attachment" class="headerlink" title="Attachment"></a>Attachment</h2><p><i class="fas fa-file-pdf"></i> <a href="/attachements/19_shi_dmmam.pdf">DMMAM &#58; Deep Multi-Source Multi-Task Attention Model for Intensive Care Unit Diagnosis</a></p>
+<a id="more"></a>
+
+<h2 id="Abstract"><a href="#Abstract" class="headerlink" title="Abstract"></a>Abstract</h2><p>Estimating the mortality of patients plays a fundamental role in an intensive care unit (ICU). Currently, most learning approaches are based on deep learning models. However, these approaches in mor- tality prediction suffer from two problems: (i) the specificity of causes of death are not considered in the learning process due to the differ- ent diseases, and symptoms are mixed-used without diversification and localization; (ii) the learning outcome for the mortality prediction is not self-explainable for the clinicians. In this paper, we propose a Deep Inter- pretable Mortality Model (DIMM), which employs Multi-Source Embed- ding, Gated Recurrent Units (GRU), Attention mechanism and Focal Loss techniques to prognosticate mortality prediction. We intensified the mortality prediction by considering the different clinical measures, med- ical treatments and the heterogeneity of the disease. More importantly, for the first time, in this framework, we use a separate evidence-based interpreter named Highlighter to interpret the prediction model, which makes the prediction understandable and trustworthy to clinicians. We demonstrate that our approach achieves state-of-the-art performance in mortality prediction and can get an interpretable prediction on four dif- ferent diseases.</p>
+<h2 id="Attachment"><a href="#Attachment" class="headerlink" title="Attachment"></a>Attachment</h2><p><i class="fas fa-file-pdf"></i> <a href="/attachements/19_shi_deep_mortality.pdf">Deep Interpretable Mortality Model for Intensive Care Unit Risk Prediction</a></p>
 ]]></content>
       <categories>
         <category>paper</category>
@@ -63,6 +48,7 @@
     <content><![CDATA[<h1 id="深度可解释ICU死亡率预测模型"><a href="#深度可解释ICU死亡率预测模型" class="headerlink" title="深度可解释ICU死亡率预测模型"></a>深度可解释ICU死亡率预测模型</h1><blockquote>
 <p><i class="fas fa-file-signature"></i>   Multi-factors-based sentence ordering for cross-document fusion from multimodal content<br><i class="fas fa-bookmark"></i>  Neurocomputing<br><i class="fas fa-user-friends"></i> Lin Yue, <strong>Zhenkun Shi</strong>, Jiayu Han, Sen Wang, Weitong Chen, Wanli Zuo*. </p>
 </blockquote>
+<a id="more"></a>
 <h2 id="Abstract"><a href="#Abstract" class="headerlink" title="Abstract"></a>Abstract</h2><p>Organizing a coherent structure of the sentences extracted from multiple documents, guarantees the fluency and readability of the fused document. In this paper, sentence ordering problem is treated as a combinatorial optimization problem and solved with continuous Hopfield neural network (CHNN). We unify the existing factors by considering the most frequent orders temporal information, and topical relevance between local themes during overall ordering process. Specifically, ordering algorithm traverses all the local themes and locates a shortest path as the final sentence ordering. We show the results with data from Document Understanding Conferences (DUC) 2002–2005, and demonstrate the effectiveness of the developed approach compared with Random Ordering (RO), Chronological Ordering (CO), Majority Ordering (MO), and Precedence Relation Ordering (PRO).</p>
 <h2 id="Attachment"><a href="#Attachment" class="headerlink" title="Attachment"></a>Attachment</h2><p><i class="fas fa-file-pdf"></i> <a href="/attachements/17_yue_document.pdf">Multi-factors-based sentence ordering for cross-document fusion from multimodal content</a></p>
 ]]></content>
@@ -82,6 +68,7 @@
     <content><![CDATA[<h1 id="基于矩阵分解和混合粒子群优化的用户关系预测"><a href="#基于矩阵分解和混合粒子群优化的用户关系预测" class="headerlink" title="基于矩阵分解和混合粒子群优化的用户关系预测"></a>基于矩阵分解和混合粒子群优化的用户关系预测</h1><blockquote>
 <p><i class="fas fa-file-signature"></i>   User relation prediction based on matrix factorization and hybrid particle swarm optimization<br><i class="fas fa-bookmark"></i>   WWW2017: The 26th World Wide Web Conference<br><i class="far fa-calendar-alt"></i>   April 3, 2017 - April 7, 2017.<br><i class="fas fa-globe"></i>   Perth, Australia<br><i class="fas fa-user-friends"></i> <strong>Zhenkun Shi</strong>, Wanli Zuo*, Weitong Chen, Lin Yue, Jiayu Han, Lizhou Feng.</p>
 </blockquote>
+<a id="more"></a>
 <h2 id="Abstract"><a href="#Abstract" class="headerlink" title="Abstract"></a>Abstract</h2><p>Many real-world domains are relational in nature, consisting of a set of objects related to each other in complex ways. Matrix factorization is an effective method in relationship prediction, However, traditional matrix factorization link prediction methods can only be used for non-negative matrix. In this paper, a generalized framework, itelliPrediction, is presented that is able to deal with positive and negative matrix. The novel itelliPrediction framework is domain independent and with high precision. We validate our approach using two different data sources, an open data sets and a real-word dataset, the result demonstrated that the quality of our approach is comparable to, if not better than, exiting state of the art relation predication framework.</p>
 <h2 id="Attachment"><a href="#Attachment" class="headerlink" title="Attachment"></a>Attachment</h2><p><i class="fas fa-file-pdf"></i> <a href="/attachements/17_shi_user_relation.pdf">User relation prediction based on matrix factorization and hybrid particle swarm optimization</a></p>
 ]]></content>
@@ -96,11 +83,75 @@
       </tags>
   </entry>
   <entry>
+    <title>Deep dynamic imputation of clinical time series for mortality prediction</title>
+    <url>/2021/12/24/deepIMP/</url>
+    <content><![CDATA[<h1 id="用于ICU病人疾病诊断与病情严重程度评估的一个集成模型"><a href="#用于ICU病人疾病诊断与病情严重程度评估的一个集成模型" class="headerlink" title="用于ICU病人疾病诊断与病情严重程度评估的一个集成模型"></a>用于ICU病人疾病诊断与病情严重程度评估的一个集成模型</h1><blockquote>
+<p><i class="fas fa-file-signature"></i>   Deep dynamic imputation of clinical time series for mortality prediction<br><i class="fas fa-bookmark"></i>   INFORMATION SCIENCES<br><i class="fas fa-user-friends"></i> <strong>Zhenkun Shi</strong>, Sen Wang, Lin Yue, Lixin Pang, Xianglin Zuo, Wanli Zuo, Xue Li.</p>
+</blockquote>
+<a id="more"></a>
+
+<h2 id="Abstract"><a href="#Abstract" class="headerlink" title="Abstract"></a>Abstract</h2><p>Missing values in clinical time-series data are pervasive and inevitable; they not only increase the complexity and difficulty of analyzing the data but also lead to biased results. To tackle these two problems, researchers have been exploring recurrent neural network (RNN)-based methods for detecting how well missing values are addressed with the aim of achieving state-of-the-art performance. However, these methods have two practical drawbacks. 1) Handling time-series data with multiple, irregular, abnormal values is difficult. 2) The patterns that may be present in the missing clinical data are not thoroughly considered. Moreover, to the best of our knowledge, none of these methods have been explicitly designed to dynamically optimize the imputation quality for better performance in the realm of clinical time-series analytics. By considering the quality of imputed values, we propose a 2-step integrated imputation-prediction model based on gated recurrent units (GRUs) for medical prediction tasks. In the first step, the missing values are imputed using a sophisticated model based on a replenished GRU with a hidden state decay mechanism (RGRU-D), which is followed by evaluation through two additional layers. In the second step, the optimized imputed values are used to predict the risk of mortality in critical patients. Our model effectively supplies missing values for the masking, time interval, bursty, and cumulative missing rate variables within an integrated deep architecture. Extensive experiments on a real-world ICU dataset demonstrate that our model performs better than the compared methods in terms of the imputation quality and prediction accuracy. (c) 2021 Elsevier Inc. All rights reserved.</p>
+<h2 id="Attachment"><a href="#Attachment" class="headerlink" title="Attachment"></a>Attachment</h2><p><i class="fas fa-file-pdf"></i> <a href="/attachements/21_shi_imputation.pdf">Deep dynamic imputation of clinical time series for mortality prediction</a></p>
+]]></content>
+      <categories>
+        <category>paper</category>
+        <category>journal</category>
+      </categories>
+      <tags>
+        <tag>published</tag>
+        <tag>medical data mining</tag>
+        <tag>journal</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Discriminative Features Generation for Mortality Prediction in ICU</title>
+    <url>/2021/12/24/dfsgeneration/</url>
+    <content><![CDATA[<h1 id="ICU死亡率预测的判别特征生成"><a href="#ICU死亡率预测的判别特征生成" class="headerlink" title="ICU死亡率预测的判别特征生成"></a>ICU死亡率预测的判别特征生成</h1><blockquote>
+<p><i class="fas fa-file-signature"></i>   Discriminative Features Generation for Mortality Prediction in ICU<br><i class="fas fa-bookmark"></i>   International Conference on Advanced Data Mining and Applications<br><i class="far fa-calendar-alt"></i>   November 12–14, 2020.<br><i class="fas fa-globe"></i>   Dalian, Chian.<br><i class="fas fa-user-friends"></i> Suresh Pokharel, <strong>Zhenkun Shi*</strong>., Guido Zuccon, &amp; Yu Li.</p>
+</blockquote>
+<a id="more"></a>
+<h2 id="Abstract"><a href="#Abstract" class="headerlink" title="Abstract"></a>Abstract</h2><p>Effective methods for mortality prediction for Intensive Care Unit (ICU) patients assist health professionals by producing alerts ahead of time regarding the critical changing degeneration of a patient’s health. This can guide health professionals to take immediate interventions to rescue the lives of patients. However, existing methods only use raw clinical features and ignore the compound information exhibited by Electronic Health Records (EHRs) data, i.e., the co-occurrence of different clinical events at the same point of time (or within a short time interval). In this paper we use a recently proposed method, called Temporal Tree, to capture the compound information and use them as discriminative features. In addition, to test the impact of preserving temporal information, we capture compound information in terms of patient situations (i.e., the patient’s medical condition at particular point of time), and represent a patient as a sequence of patient situations. This is contrasted with the baseline approach of representing a patient by the associated sequence of clinical events (bag-of-words like). These representations are further processed to obtain low dimensional embeddings used to represent patients and their situations.</p>
+<p>The effectiveness of the proposed methods is evaluated using a real ICU dataset with nine different baselines and state-of-the-art classifiers. The empirical results show the Temporal Tree method is able to generate discriminative patient representations. Classifiers that exploited the compounded information significantly improved the quality of ICU mortality predictions, in all cases and across both bag-of-words (up to   7.814%  improvements) and patient situations representations (up to   2.720%  improvements).</p>
+<h2 id="Attachment"><a href="#Attachment" class="headerlink" title="Attachment"></a>Attachment</h2><p><i class="fas fa-file-pdf"></i> <a href="/attachements/Pokharel20_DiscriminativeFeaturesGenerati.pdf">Discriminative Features Generation for Mortality Prediction in ICU</a></p>
+]]></content>
+      <categories>
+        <category>paper</category>
+        <category>conference</category>
+      </categories>
+      <tags>
+        <tag>published</tag>
+        <tag>medical data mining</tag>
+        <tag>conference</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>DMMAM &amp;#58; Deep Multi-Source Multi-Task Attention Model for Intensive Care Unit Diagnosis</title>
+    <url>/2019/04/25/dmmam/</url>
+    <content><![CDATA[<h1 id="基于Attention的多源多任务ICU疾病诊断模型"><a href="#基于Attention的多源多任务ICU疾病诊断模型" class="headerlink" title="基于Attention的多源多任务ICU疾病诊断模型"></a>基于Attention的多源多任务ICU疾病诊断模型</h1><blockquote>
+<p><i class="fas fa-file-signature"></i>   DMMAM &#58; Deep Multi-Source Multi-Task Attention Model for Intensive Care Unit Diagnosis<br><i class="fas fa-bookmark"></i>   DASFAA 2019: Database Systems for Advanced Applications<br><i class="far fa-calendar-alt"></i>   Apr 22, 2019 - Apr 25, 2019.<br><i class="fas fa-globe"></i>   Chiang Mai, Thailand<br><i class="fas fa-user-friends"></i> <strong>Zhenkun Shi</strong>, Wanli Zuo, Weitong Chen, Lin Yue, Yuwei Hao, Shining Liang*.</p>
+</blockquote>
+<a id="more"></a>
+
+<h2 id="Abstract"><a href="#Abstract" class="headerlink" title="Abstract"></a>Abstract</h2><p>Disease diagnosis can provide crucial information for clin- ical decisions that influence the outcome in acute serious illness, and this is particularly in the intensive care unit (ICU). However, the cen- tral role of diagnosis in clinical practice is challenged by evidence that does not always benefit patients and that factors other than disease are important in determining patient outcome. To streamline the diagnos- tic process in daily routine and avoid misdiagnoses, in this paper, we proposed a deep multi-source multi-task attention model (DMMAM) for ICU disease diagnosis. DMMAM exploits multi-sources information from various types of complications, clinical measurements, and the medical treatments to support the diagnosis. We evaluate the proposed model with 50 diseases of 9 classifications on an extensive collection of real- world ICU Electronic Health Records (EHR) dataset with 151729 ICU admissions from 46520 patients. Experiments results demonstrate the effectiveness and the robustness of our model.</p>
+<h2 id="Attachment"><a href="#Attachment" class="headerlink" title="Attachment"></a>Attachment</h2><p><i class="fas fa-file-pdf"></i> <a href="/attachements/19_shi_dmmam.pdf">DMMAM &#58; Deep Multi-Source Multi-Task Attention Model for Intensive Care Unit Diagnosis</a></p>
+]]></content>
+      <categories>
+        <category>paper</category>
+        <category>conference</category>
+      </categories>
+      <tags>
+        <tag>published</tag>
+        <tag>medical data mining</tag>
+        <tag>conference</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Joint Personalized Markov Chains with Social Network Embedding for Cold-Start Recommendation</title>
     <url>/2020/05/13/jointMarkov/</url>
     <content><![CDATA[<h1 id="利用联合个性化的马尔可夫链和社交网络嵌入解决推荐中的冷启动问题"><a href="#利用联合个性化的马尔可夫链和社交网络嵌入解决推荐中的冷启动问题" class="headerlink" title="利用联合个性化的马尔可夫链和社交网络嵌入解决推荐中的冷启动问题"></a>利用联合个性化的马尔可夫链和社交网络嵌入解决推荐中的冷启动问题</h1><blockquote>
 <p><i class="fas fa-file-signature"></i>   Joint Personalized Markov Chains with Social Network Embedding for Cold-Start Recommendation<br><i class="fas fa-bookmark"></i>   Neurocomputing<br><i class="fas fa-user-friends"></i> Yijia Zhang, <strong>Zhenkun Shi*</strong>, Wanli Zuo, Lin Yue, Shining Liang, Xue Li.</p>
 </blockquote>
+<a id="more"></a>
 <h2 id="Abstract"><a href="#Abstract" class="headerlink" title="Abstract"></a>Abstract</h2><p>The primary objective of recommender systems is to help users select their desired items, where a key challenge is providing high-quality recommendations to users in a “cold-start” situation. Recent advances in tackling this problem combine social relations and temporal information and integrate them into a unified framework. However, these methods suffer from a limitation that there not always exist links for the newcomers, thus these users are filtered in related studies. To break the boundary, in this paper, we propose a Joint Personalized Markov Chains (JPMC) model to address the cold-start issues for implicit feedback recommendation system. In our study, we first utilize user embedding to mine Network Neighbors, so that newcomers without relations can be represented by similar users, then we designed a two-level model based on Markov chains at both user level and user group level respectively to model user preferences dynamically. Experimental results on three real-world datasets have shown that our model can significantly outperform the state-of-the-art models.</p>
 <h2 id="Attachment"><a href="#Attachment" class="headerlink" title="Attachment"></a>Attachment</h2><p><i class="fas fa-file-pdf"></i> <a href="/attachements/20_zhang_jointm.pdf">Joint Personalized Markov Chains with Social Network Embedding for Cold-Start Recommendation</a></p>
 ]]></content>
@@ -115,13 +166,14 @@
       </tags>
   </entry>
   <entry>
-    <title>Social Bayesian personal ranking for missing data in implicit feedback recommendation</title>
-    <url>/2018/05/21/sbpranking/</url>
-    <content><![CDATA[<h1 id="在含缺失数据的隐式反馈推荐中的个人社会贝叶斯排名"><a href="#在含缺失数据的隐式反馈推荐中的个人社会贝叶斯排名" class="headerlink" title="在含缺失数据的隐式反馈推荐中的个人社会贝叶斯排名"></a>在含缺失数据的隐式反馈推荐中的个人社会贝叶斯排名</h1><blockquote>
-<p><i class="fas fa-file-signature"></i>   Social Bayesian personal ranking for missing data in implicit feedback recommendation<br><i class="fas fa-bookmark"></i>   KSEM 2018 : The 11th International Conference on Knowledge Science, Engineering and Management<br><i class="far fa-calendar-alt"></i>   Aug 17, 2018 - Aug 19, 2018.<br><i class="fas fa-globe"></i>   Changchun, China.<br><i class="fas fa-user-friends"></i> Yijia Zhang, Wanli Zuo, <strong>Zhenkun Shi*</strong>, Lin Yue, Shining Liang.   </p>
+    <title>Prognosis of Thyroid Disease Using MS-Apriori Improved Decision Tree</title>
+    <url>/2018/05/16/thyroid/</url>
+    <content><![CDATA[<h1 id="使用MS-Apriori改进的决策树来预测甲状腺淋巴癌转移"><a href="#使用MS-Apriori改进的决策树来预测甲状腺淋巴癌转移" class="headerlink" title="使用MS-Apriori改进的决策树来预测甲状腺淋巴癌转移"></a>使用MS-Apriori改进的决策树来预测甲状腺淋巴癌转移</h1><blockquote>
+<p><i class="fas fa-file-signature"></i>   Prognosis of Thyroid Disease Using MS-Apriori Improved Decision Tree<br><i class="fas fa-bookmark"></i>   KSEM 2018 : The 11th International Conference on Knowledge Science, Engineering and Management<br><i class="far fa-calendar-alt"></i>   Aug 17, 2018 - Aug 19, 2018.<br><i class="fas fa-globe"></i>   Changchun, China.<br><i class="fas fa-user-friends"></i> Yuwei Hao, Wanli Zuo, <strong>Zhenkun Shi*</strong>, Lin Yue, Shuai Xue, Fengling He.   </p>
 </blockquote>
-<h2 id="Abstract"><a href="#Abstract" class="headerlink" title="Abstract"></a>Abstract</h2><p>Recommendation systems estimate user’s preference to suggest items that might be interesting for them. Recently, implicit feedback recommendation has been steadily receiving more attention because it can be collected on a larger scale with a much lower cost than explicit feedback. The typical methods for recommendation are not well-designed for implicit feedback recommendation. Some effective methods have been proposed to improve implicit feedback recommendation, but most of them suffer from the problems of data sparsity and usually ignore the missing data in implicit feedback. Recent studies illustrate that social information can help resolve these issues. Towards this end, we propose a joint factorization model under the BPR framework utilizing social information. Remarkable, the experimental results show that our method performs much better than the state-of-the-art approaches and is capable of solving implicit problems, which indicates the importance of incorporating social information in the recommendation process to address the poor prediction accuracy.  </p>
-<h2 id="Attachment"><a href="#Attachment" class="headerlink" title="Attachment"></a>Attachment</h2><p><i class="fas fa-file-pdf"></i> <a href="/attachements/18_zhang_sbpr.pdf">Social Bayesian personal ranking for missing data in implicit feedback recommendation</a></p>
+<a id="more"></a>
+<h2 id="Abstract"><a href="#Abstract" class="headerlink" title="Abstract"></a>Abstract</h2><p>The lymph nodes metastasis in the papillary thyroid microcarcinoma (PTMC) can lead to a recurrence of cancer. We hope to take preventive mea- sures to reduce the recurrence rate of the thyroid cancer. This paper presents a decision tree improved by MS-Apriori for the prognosis of lymph node metastasis (LNM) in patients with PTMC, called MsaDtd (Decision tree Diagnosis based on MS-Apriori). The method converts the original feature space into a more abundant feature space, MS-Apriori is used to generate association rules that consider rare items by multiple supports and fuzzy logic is introduced to map attribute values to different subintervals. Then, we filter the ranked rules which consider positive and negative tuples. We improve accuracy through deleting disturbance rules. At last, we use the decision tree to predict LNM by analyzing the affiliation between the instance and rules. Clinical-pathological data were obtained from the First Hospital of Jilin University. The results show that the proposed MsaDtd achieves better prediction performance than other methods on the prognosis of LNM.</p>
+<h2 id="Attachment"><a href="#Attachment" class="headerlink" title="Attachment"></a>Attachment</h2><p><i class="fas fa-file-pdf"></i> <a href="/attachements/18_hao.pdf">Prognosis of Thyroid Disease Using MS-Apriori Improved Decision Tree</a></p>
 ]]></content>
       <categories>
         <category>paper</category>
@@ -134,13 +186,15 @@
       </tags>
   </entry>
   <entry>
-    <title>Prognosis of Thyroid Disease Using MS-Apriori Improved Decision Tree</title>
-    <url>/2018/05/16/thyroid/</url>
-    <content><![CDATA[<h1 id="使用MS-Apriori改进的决策树来预测甲状腺淋巴癌转移"><a href="#使用MS-Apriori改进的决策树来预测甲状腺淋巴癌转移" class="headerlink" title="使用MS-Apriori改进的决策树来预测甲状腺淋巴癌转移"></a>使用MS-Apriori改进的决策树来预测甲状腺淋巴癌转移</h1><blockquote>
-<p><i class="fas fa-file-signature"></i>   Prognosis of Thyroid Disease Using MS-Apriori Improved Decision Tree<br><i class="fas fa-bookmark"></i>   KSEM 2018 : The 11th International Conference on Knowledge Science, Engineering and Management<br><i class="far fa-calendar-alt"></i>   Aug 17, 2018 - Aug 19, 2018.<br><i class="fas fa-globe"></i>   Changchun, China.<br><i class="fas fa-user-friends"></i> Yuwei Hao, Wanli Zuo, <strong>Zhenkun Shi*</strong>, Lin Yue, Shuai Xue, Fengling He.   </p>
+    <title>Social Bayesian personal ranking for missing data in implicit feedback recommendation</title>
+    <url>/2018/05/21/sbpranking/</url>
+    <content><![CDATA[<h1 id="在含缺失数据的隐式反馈推荐中的个人社会贝叶斯排名"><a href="#在含缺失数据的隐式反馈推荐中的个人社会贝叶斯排名" class="headerlink" title="在含缺失数据的隐式反馈推荐中的个人社会贝叶斯排名"></a>在含缺失数据的隐式反馈推荐中的个人社会贝叶斯排名</h1><blockquote>
+<p><i class="fas fa-file-signature"></i>   Social Bayesian personal ranking for missing data in implicit feedback recommendation<br><i class="fas fa-bookmark"></i>   KSEM 2018 : The 11th International Conference on Knowledge Science, Engineering and Management<br><i class="far fa-calendar-alt"></i>   Aug 17, 2018 - Aug 19, 2018.<br><i class="fas fa-globe"></i>   Changchun, China.<br><i class="fas fa-user-friends"></i> Yijia Zhang, Wanli Zuo, <strong>Zhenkun Shi*</strong>, Lin Yue, Shining Liang.   </p>
 </blockquote>
-<h2 id="Abstract"><a href="#Abstract" class="headerlink" title="Abstract"></a>Abstract</h2><p>The lymph nodes metastasis in the papillary thyroid microcarcinoma (PTMC) can lead to a recurrence of cancer. We hope to take preventive mea- sures to reduce the recurrence rate of the thyroid cancer. This paper presents a decision tree improved by MS-Apriori for the prognosis of lymph node metastasis (LNM) in patients with PTMC, called MsaDtd (Decision tree Diagnosis based on MS-Apriori). The method converts the original feature space into a more abundant feature space, MS-Apriori is used to generate association rules that consider rare items by multiple supports and fuzzy logic is introduced to map attribute values to different subintervals. Then, we filter the ranked rules which consider positive and negative tuples. We improve accuracy through deleting disturbance rules. At last, we use the decision tree to predict LNM by analyzing the affiliation between the instance and rules. Clinical-pathological data were obtained from the First Hospital of Jilin University. The results show that the proposed MsaDtd achieves better prediction performance than other methods on the prognosis of LNM.</p>
-<h2 id="Attachment"><a href="#Attachment" class="headerlink" title="Attachment"></a>Attachment</h2><p><i class="fas fa-file-pdf"></i> <a href="/attachements/18_hao.pdf">Prognosis of Thyroid Disease Using MS-Apriori Improved Decision Tree</a></p>
+<a id="more"></a>
+
+<h2 id="Abstract"><a href="#Abstract" class="headerlink" title="Abstract"></a>Abstract</h2><p>Recommendation systems estimate user’s preference to suggest items that might be interesting for them. Recently, implicit feedback recommendation has been steadily receiving more attention because it can be collected on a larger scale with a much lower cost than explicit feedback. The typical methods for recommendation are not well-designed for implicit feedback recommendation. Some effective methods have been proposed to improve implicit feedback recommendation, but most of them suffer from the problems of data sparsity and usually ignore the missing data in implicit feedback. Recent studies illustrate that social information can help resolve these issues. Towards this end, we propose a joint factorization model under the BPR framework utilizing social information. Remarkable, the experimental results show that our method performs much better than the state-of-the-art approaches and is capable of solving implicit problems, which indicates the importance of incorporating social information in the recommendation process to address the poor prediction accuracy.  </p>
+<h2 id="Attachment"><a href="#Attachment" class="headerlink" title="Attachment"></a>Attachment</h2><p><i class="fas fa-file-pdf"></i> <a href="/attachements/18_zhang_sbpr.pdf">Social Bayesian personal ranking for missing data in implicit feedback recommendation</a></p>
 ]]></content>
       <categories>
         <category>paper</category>
@@ -189,7 +243,23 @@
 <td align="left"></td>
 </tr>
 </tbody></table>
-<h2 id="研究方向"><a href="#研究方向" class="headerlink" title="研究方向"></a>研究方向</h2><p>医疗数据挖掘、社会计算、深度学习、自然语言处理、人工群智<br><br/></p>
+<h2 id="研究方向"><a href="#研究方向" class="headerlink" title="研究方向"></a>研究方向</h2><p>人工智能生物学、医疗数据挖掘、社会计算、深度学习、自然语言处理、人工群智<br><br/></p>
+<h2 id="工作经历"><a href="#工作经历" class="headerlink" title="工作经历"></a>工作经历</h2><table>
+<thead>
+<tr>
+<th align="center">时间</th>
+<th align="center">单位</th>
+<th align="center">职位</th>
+<th align="center">导师</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="center">2020.12 - 至今</td>
+<td align="center">中国科学院天津工业生物研究所</td>
+<td align="center">博士后</td>
+<td align="center">马红武、廖小平</td>
+</tr>
+</tbody></table>
 <h2 id="学习经历"><a href="#学习经历" class="headerlink" title="学习经历"></a>学习经历</h2><table>
 <thead>
 <tr>
@@ -201,7 +271,7 @@
 </tr>
 </thead>
 <tbody><tr>
-<td align="center">2016.09 - 至今</td>
+<td align="center">2016.09 - 2020.12</td>
 <td align="center">吉林大学计算机科学与技术学院</td>
 <td align="center">计算机应用技术</td>
 <td align="center">博士</td>
@@ -229,16 +299,21 @@
 <td align="center"></td>
 </tr>
 </tbody></table>
-<h2 id="学术论文"><a href="#学术论文" class="headerlink" title="学术论文"></a>学术论文</h2><h3 id="2020"><a href="#2020" class="headerlink" title="2020"></a>2020</h3><ol>
-<li><p><strong>Zhenkun Shi</strong>, Wanli Zuo, Shining Liang, Xianglin Zuo*, Lin Yue, Xue Li. IDDSAM: An Integrated Disease Diagnosis and Severity Assessment Model for Intensive Care Units [J]. IEEE Access, 2020, 15423-15435:1-1. (SCI 二区, IF: 4.098, SCI检索号：WOS: 000524741300012).</p>
+<h2 id="学术论文"><a href="#学术论文" class="headerlink" title="学术论文"></a>学术论文</h2><h3 id="2021"><a href="#2021" class="headerlink" title="2021"></a>2021</h3><ol>
+<li><strong>Zhenkun Shi</strong>, Sen Wang, Lin Yue, Lixin Pang, Xianglin Zuo, Wanli Zuo, Xue Li. Deep dynamic imputation of clinical time series for mortality prediction[J]. Information Sciences, 2021, 579: 607-622 (SCI 1区， WOS:000701122700013, IF:6.795).</li>
+</ol>
+<h3 id="2020"><a href="#2020" class="headerlink" title="2020"></a>2020</h3><ol>
+<li><p><strong>Zhenkun Shi</strong>, Wanli Zuo, Shining Liang, Xianglin Zuo*, Lin Yue, Xue Li. IDDSAM: An Integrated Disease Diagnosis and Severity Assessment Model for Intensive Care Units [J]. IEEE Access, 2020, 15423-15435:1-1. (SCI 二区, IF: 4.098, WOS: 000524741300012).</p>
 </li>
 <li><p>Yijia Zhang, <strong>Zhenkun Shi*</strong>, Wanli Zuo, Lin Yue, Shining Liang, Xue Li. Joint Personalized Markov Chains with Social Network Embedding for Cold-Start Recommendation[J]. Neurocomputing, 2020, 386: 208-220. (SCI 二区, IF: 4.072)</p>
+</li>
+<li><p>Suresh Pokharel, <strong>Zhenkun Shi*</strong>., Guido Zuccon, &amp; Yu Li. (2020, November). Discriminative Features Generation for Mortality Prediction in ICU. In International Conference on Advanced Data Mining and Applications (pp. 324-338). Springer, Cham (WOS: 000723588900025).</p>
 </li>
 </ol>
 <h3 id="2019"><a href="#2019" class="headerlink" title="2019"></a>2019</h3><ol>
 <li><p><strong>Zhenkun Shi</strong>, Wanli Zuo, Weitong Chen, Lin Yue, Yuwei Hao, Shining Liang*. DMMAM: Deep Multi-Source Multi-Task Attention Model for Intensive Care Unit Diagnosis [C]. Lecture Notes In International Conference on Database Systems for Advanced Applications, 53-69. Springer, Cham, 2019. (SCI 会议, SCI检索号：WOS:000485172700004, CCF推荐B类会议).</p>
 </li>
-<li><p><strong>Zhenkun Shi</strong>, Weitong Chen, Shining Liang, Wanli Zuo*, Lin Yue, Sen Wang. Deep Interpretable Mortality Model for Intensive Care Unit Risk Prediction [C]. International Conference on Advanced Data Mining and Applications. Springer, Cham, 2019: 617-631. (EI: 20195107875335).</p>
+<li><p><strong>Zhenkun Shi</strong>, Weitong Chen, Shining Liang, Wanli Zuo*, Lin Yue, Sen Wang. Deep Interpretable Mortality Model for Intensive Care Unit Risk Prediction [C]. International Conference on Advanced Data Mining and Applications. Springer, Cham, 2019: 617-631. (WOS: 000582483200045).</p>
 </li>
 </ol>
 <h3 id="2018"><a href="#2018" class="headerlink" title="2018"></a>2018</h3><ol>
@@ -250,7 +325,7 @@
 </li>
 </ol>
 <h3 id="2017"><a href="#2017" class="headerlink" title="2017"></a>2017</h3><ol>
-<li><p><strong>Zhenkun Shi</strong>, Wanli Zuo*, Weitong Chen, Lin Yue, Jiayu Han, Lizhou Feng. User relation prediction based on matrix factorization and hybrid particle swarm optimization [C]. Proceedings of the 26th International Conference on World Wide Web Companion. 2017: 1335-1341. (CCF推荐A类会议).</p>
+<li><p><strong>Zhenkun Shi</strong>, Wanli Zuo*, Weitong Chen, Lin Yue, Jiayu Han, Lizhou Feng. User relation prediction based on matrix factorization and hybrid particle swarm optimization [C]. Proceedings of the 26th International Conference on World Wide Web Companion. 2017: 1335-1341. (CCF推荐A类会议, EI:20190406414726).</p>
 </li>
 <li><p>Lin Yue, <strong>Zhenkun Shi</strong>, Jiayu Han, Sen Wang, Weitong Chen, Wanli Zuo*. Multi-factors-based sentence ordering for cross-document fusion from multimodal content[J]. Neurocomputing, 2017, 253: 6-14. (SCI 二区, IF: 4.098, SCI检索号： WOS: 000403636200002).</p>
 </li>
@@ -279,52 +354,6 @@
 <li>史振坤. 河北省优秀学生干部，2012-03，省部级。</li>
 <li>赵艳红、史振坤、宋永生. “河北省第十五届教育软件大赛”高等教育组三等奖, 2011-09, 省部级。</li>
 </ol>
-<h2 id="工作经历"><a href="#工作经历" class="headerlink" title="工作经历"></a>工作经历</h2><table>
-<thead>
-<tr>
-<th align="center">时间</th>
-<th align="center">单位</th>
-<th align="center">职位</th>
-<th align="center">主管</th>
-</tr>
-</thead>
-<tbody><tr>
-<td align="center">2016.09 - 至今</td>
-<td align="center">吉林大学 计算机科学与技术学院</td>
-<td align="center">博士生兼职辅导员</td>
-<td align="center">白江</td>
-</tr>
-<tr>
-<td align="center">2015.09 - 至今</td>
-<td align="center">吉林大学 学生工作部</td>
-<td align="center">信息化建设专员</td>
-<td align="center">邹丽伟</td>
-</tr>
-<tr>
-<td align="center">2019.08 - 2019.12</td>
-<td align="center">澳大利亚昆士兰大学</td>
-<td align="center">云计算课程 助教</td>
-<td align="center">Sen Wang</td>
-</tr>
-<tr>
-<td align="center">2018.08 - 2018.12</td>
-<td align="center">澳大利亚昆士兰大学</td>
-<td align="center">云计算课程 助教</td>
-<td align="center">Xue Li</td>
-</tr>
-<tr>
-<td align="center">2015.03 - 2017.10</td>
-<td align="center">吉林大学 研究生创新中心</td>
-<td align="center">宣传部副部长</td>
-<td align="center">孟勐</td>
-</tr>
-<tr>
-<td align="center">2014.09 - 2016.09</td>
-<td align="center">吉林大学 注册与考试中心</td>
-<td align="center">学生助管</td>
-<td align="center">董英男</td>
-</tr>
-</tbody></table>
 <h2 id="工程项目"><a href="#工程项目" class="headerlink" title="工程项目"></a>工程项目</h2><table>
 <thead>
 <tr>
@@ -374,13 +403,13 @@
 ]]></content>
   </entry>
   <entry>
-    <title>tags</title>
-    <url>/tags/index.html</url>
+    <title>categories</title>
+    <url>/categories/index.html</url>
     <content><![CDATA[]]></content>
   </entry>
   <entry>
-    <title>categories</title>
-    <url>/categories/index.html</url>
+    <title>tags</title>
+    <url>/tags/index.html</url>
     <content><![CDATA[]]></content>
   </entry>
 </search>

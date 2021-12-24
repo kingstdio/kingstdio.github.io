@@ -8,48 +8,24 @@
     </url>
 
     <url>
+        <loc>http://shizhenkun.cn/2021/12/24/deepIMP/</loc>
+        <lastmod>2021-12-24T02:44:24.711Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://shizhenkun.cn/2021/12/24/dfsgeneration/</loc>
+        <lastmod>2021-12-24T02:41:47.601Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>http://shizhenkun.cn/2020/05/18/IDDSAM/</loc>
-        <lastmod>2020-05-19T13:31:07.868Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>http://shizhenkun.cn/2019/11/11/DIMM/</loc>
-        <lastmod>2020-05-19T12:53:36.677Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>http://shizhenkun.cn/2019/04/25/dmmam/</loc>
-        <lastmod>2020-05-19T12:49:31.753Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>http://shizhenkun.cn/2018/05/21/sbpranking/</loc>
-        <lastmod>2020-05-19T12:43:25.382Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>http://shizhenkun.cn/2018/05/16/thyroid/</loc>
-        <lastmod>2020-05-19T12:20:08.849Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>http://shizhenkun.cn/2020/05/13/jointMarkov/</loc>
-        <lastmod>2020-05-19T11:55:14.763Z</lastmod>
+        <lastmod>2021-12-24T02:19:13.593Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -57,7 +33,23 @@
 
     <url>
         <loc>http://shizhenkun.cn/2017/03/27/Multi-factors-based%20sentence%20ordering%20for%20cross-document%20fusion%20from%20multimodal%20content/</loc>
-        <lastmod>2020-05-19T05:53:43.287Z</lastmod>
+        <lastmod>2021-12-24T02:19:13.593Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://shizhenkun.cn/2018/05/21/sbpranking/</loc>
+        <lastmod>2021-12-24T02:19:13.593Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://shizhenkun.cn/2018/05/16/thyroid/</loc>
+        <lastmod>2021-12-24T02:19:13.592Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -65,7 +57,31 @@
 
     <url>
         <loc>http://shizhenkun.cn/2017/04/12/User%20relation%20prediction%20based%20on%20matrix%20factorization%20and%20hybrid%20particle%20swarm%20optimization/</loc>
-        <lastmod>2020-05-19T05:45:52.902Z</lastmod>
+        <lastmod>2021-12-24T02:15:30.643Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://shizhenkun.cn/2020/05/13/jointMarkov/</loc>
+        <lastmod>2021-12-24T02:15:18.930Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://shizhenkun.cn/2019/04/25/dmmam/</loc>
+        <lastmod>2021-12-24T02:15:11.610Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://shizhenkun.cn/2019/11/11/DIMM/</loc>
+        <lastmod>2021-12-24T02:14:06.272Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
