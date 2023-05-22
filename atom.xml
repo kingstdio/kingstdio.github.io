@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://shizhenkun.cn/"/>
-  <updated>2021-12-24T02:44:24.711Z</updated>
+  <updated>2023-05-22T01:34:48.109Z</updated>
   <id>http://shizhenkun.cn/</id>
   
   <author>
@@ -17,11 +17,135 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>AutoESD a web tool for automatic editing sequence design for genetic manipulation of microorganisms</title>
+    <link href="http://shizhenkun.cn/2023/05/22/autoesd/"/>
+    <id>http://shizhenkun.cn/2023/05/22/autoesd/</id>
+    <published>2023-05-22T01:28:53.000Z</published>
+    <updated>2023-05-22T01:34:48.109Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="AutoESD：自动编辑化基因序列设计的在线工具"><a href="#AutoESD：自动编辑化基因序列设计的在线工具" class="headerlink" title="AutoESD：自动编辑化基因序列设计的在线工具"></a>AutoESD：自动编辑化基因序列设计的在线工具</h1><blockquote><p><i class="fas fa-file-signature"></i>   AutoESD: a web tool for automatic editing sequence design for genetic manipulation of microorganisms<br><i class="fas fa-bookmark"></i>   Nucleic Acids Research<br><i class="far fa-calendar-alt"></i>   October 17, 2022.<br><i class="fas fa-user-friends"></i> Yi Yang, Yufeng Mao, Ruoyu Wang, Haoran Li, Ye Liu, Haijiao Cheng, <strong>Zhenkun Shi</strong>, Yu Wang, Meng Wang, Ping Zheng, Xiaoping Liao, Hongwu Ma</p></blockquote><a id="more"></a><h2 id="Abstract"><a href="#Abstract" class="headerlink" title="Abstract"></a>Abstract</h2><p>Advances in genetic manipulation and genome engineering techniques have enabled on-demand targeted deletion, insertion, and substitution of DNA sequences. One important step in these techniques is the design of editing sequences (e.g. primers, homologous arms) to precisely target and manipulate DNA sequences of interest. Experimental biologists can employ multiple tools in a stepwise manner to assist editing sequence design (ESD), but this requires various software involving non-standardized data exchange and input/output formats. Moreover, necessary quality control steps might be overlooked by non-expert users. This approach is low-throughput and can be error-prone, which illustrates the need for an automated ESD system. In this paper, we introduce AutoESD (<a href="https://autoesd.biodesign.ac.cn/" target="_blank" rel="noopener">https://autoesd.biodesign.ac.cn/</a>), which designs editing sequences for all steps of genetic manipulation of many common homologous-recombination techniques based on screening-markers. Notably, multiple types of manipulations for different targets (CDS or intergenic region) can be processed in one submission. Moreover, AutoESD has an entirely cloud-based serverless architecture, offering high reliability, robustness and scalability which is capable of parallelly processing hundreds of design tasks each having thousands of targets in minutes. To our knowledge, AutoESD is the first cloud platform enabling precise, automated, and high-throughput ESD across species, at any genomic locus for all manipulation types.</p><h2 id="Attachment"><a href="#Attachment" class="headerlink" title="Attachment"></a>Attachment</h2><p><i class="fas fa-file-pdf"></i> <a href="/attachements/22_autoesd-gkac417.pdf">AutoESD: a web tool for automatic editing sequence design for genetic manipulation of microorganisms</a></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;AutoESD：自动编辑化基因序列设计的在线工具&quot;&gt;&lt;a href=&quot;#AutoESD：自动编辑化基因序列设计的在线工具&quot; class=&quot;headerlink&quot; title=&quot;AutoESD：自动编辑化基因序列设计的在线工具&quot;&gt;&lt;/a&gt;AutoESD：自动编辑化基因序列设计的在线工具&lt;/h1&gt;&lt;blockquote&gt;
+&lt;p&gt;&lt;i class=&quot;fas fa-file-signature&quot;&gt;&lt;/i&gt;   AutoESD: a web tool for automatic editing sequence design for genetic manipulation of microorganisms&lt;br&gt;&lt;i class=&quot;fas fa-bookmark&quot;&gt;&lt;/i&gt;   Nucleic Acids Research&lt;br&gt;&lt;i class=&quot;far fa-calendar-alt&quot;&gt;&lt;/i&gt;   October 17, 2022.&lt;br&gt;&lt;i class=&quot;fas fa-user-friends&quot;&gt;&lt;/i&gt; Yi Yang, Yufeng Mao, Ruoyu Wang, Haoran Li, Ye Liu, Haijiao Cheng, &lt;strong&gt;Zhenkun Shi&lt;/strong&gt;, Yu Wang, Meng Wang, Ping Zheng, Xiaoping Liao, Hongwu Ma&lt;/p&gt;
+&lt;/blockquote&gt;
+    
+    </summary>
+    
+    
+      <category term="paper" scheme="http://shizhenkun.cn/categories/paper/"/>
+    
+      <category term="journal" scheme="http://shizhenkun.cn/categories/paper/journal/"/>
+    
+    
+      <category term="published" scheme="http://shizhenkun.cn/tags/published/"/>
+    
+      <category term="journal" scheme="http://shizhenkun.cn/tags/journal/"/>
+    
+      <category term="nlp" scheme="http://shizhenkun.cn/tags/nlp/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Construction and Analysis of an Enzyme-Constrained Metabolic Model of Corynebacterium glutamicum</title>
+    <link href="http://shizhenkun.cn/2023/05/20/corynebacterium22/"/>
+    <id>http://shizhenkun.cn/2023/05/20/corynebacterium22/</id>
+    <published>2023-05-20T06:33:47.000Z</published>
+    <updated>2023-05-20T06:38:51.095Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="谷氨酸棒杆菌酶约束代谢模型的构建与分析"><a href="#谷氨酸棒杆菌酶约束代谢模型的构建与分析" class="headerlink" title="谷氨酸棒杆菌酶约束代谢模型的构建与分析"></a>谷氨酸棒杆菌酶约束代谢模型的构建与分析</h1><blockquote><p><i class="fas fa-file-signature"></i>   Construction and Analysis of an Enzyme-Constrained Metabolic Model of Corynebacterium glutamicum<br><i class="fas fa-bookmark"></i>   Biomolecules<br><i class="far fa-calendar-alt"></i>   October 17, 2022.<br><i class="fas fa-user-friends"></i> Jinhui Niu, Zhitao Mao, Yufeng Mao, Ke Wu, <strong>Zhenkun Shi</strong>, Qianqian Yuan, Jingyi Cai, Hongwu Ma*</p></blockquote><a id="more"></a><h2 id="Abstract"><a href="#Abstract" class="headerlink" title="Abstract"></a>Abstract</h2><p>The genome-scale metabolic model (GEM) is a powerful tool for interpreting and predicting cellular phenotypes under various environmental and genetic perturbations. However, GEM only considers stoichiometric constraints, and the simulated growth and product yield values will show a monotonic linear increase with increasing substrate uptake rate, which deviates from the experimentally measured values. Recently, the integration of enzymatic constraints into stoichiometry-based GEMs was proven to be effective in making novel discoveries and predicting new engineering targets. Here, we present the first genome-scale enzyme-constrained model (ecCGL1) for Corynebacterium glutamicum reconstructed by integrating enzyme kinetic data from various sources using a ECMpy workflow based on the high-quality GEM of C. glutamicum (obtained by modifying the iCW773 model). The enzyme-constrained model improved the prediction of phenotypes and simulated overflow metabolism, while also recapitulating the trade-off between biomass yield and enzyme usage efficiency. Finally, we used the ecCGL1 to identify several gene modification targets for l-lysine production, most of which agree with previously reported genes. This study shows that incorporating enzyme kinetic information into the GEM enhances the cellular phenotypes prediction of C. glutamicum, which can help identify key enzymes and thus provide reliable guidance for metabolic engineering.</p><h2 id="Attachment"><a href="#Attachment" class="headerlink" title="Attachment"></a>Attachment</h2><p><i class="fas fa-file-pdf"></i> <a href="/attachements/22_biomolecules-12-01499.pdf">Construction and Analysis of an Enzyme-Constrained Metabolic Model of Corynebacterium glutamicum</a></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;谷氨酸棒杆菌酶约束代谢模型的构建与分析&quot;&gt;&lt;a href=&quot;#谷氨酸棒杆菌酶约束代谢模型的构建与分析&quot; class=&quot;headerlink&quot; title=&quot;谷氨酸棒杆菌酶约束代谢模型的构建与分析&quot;&gt;&lt;/a&gt;谷氨酸棒杆菌酶约束代谢模型的构建与分析&lt;/h1&gt;&lt;blockquote&gt;
+&lt;p&gt;&lt;i class=&quot;fas fa-file-signature&quot;&gt;&lt;/i&gt;   Construction and Analysis of an Enzyme-Constrained Metabolic Model of Corynebacterium glutamicum&lt;br&gt;&lt;i class=&quot;fas fa-bookmark&quot;&gt;&lt;/i&gt;   Biomolecules&lt;br&gt;&lt;i class=&quot;far fa-calendar-alt&quot;&gt;&lt;/i&gt;   October 17, 2022.&lt;br&gt;&lt;i class=&quot;fas fa-user-friends&quot;&gt;&lt;/i&gt; Jinhui Niu, Zhitao Mao, Yufeng Mao, Ke Wu, &lt;strong&gt;Zhenkun Shi&lt;/strong&gt;, Qianqian Yuan, Jingyi Cai, Hongwu Ma*&lt;/p&gt;
+&lt;/blockquote&gt;
+    
+    </summary>
+    
+    
+      <category term="paper" scheme="http://shizhenkun.cn/categories/paper/"/>
+    
+      <category term="journal" scheme="http://shizhenkun.cn/categories/paper/journal/"/>
+    
+    
+      <category term="published" scheme="http://shizhenkun.cn/tags/published/"/>
+    
+      <category term="journal" scheme="http://shizhenkun.cn/tags/journal/"/>
+    
+      <category term="nlp" scheme="http://shizhenkun.cn/tags/nlp/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>A multi-level neural network for implicit causality detection in web texts</title>
+    <link href="http://shizhenkun.cn/2023/05/20/causality/"/>
+    <id>http://shizhenkun.cn/2023/05/20/causality/</id>
+    <published>2023-05-20T05:33:16.000Z</published>
+    <updated>2023-05-20T06:36:26.571Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="用于网络文本隐式因果检测的多级神经网络"><a href="#用于网络文本隐式因果检测的多级神经网络" class="headerlink" title="用于网络文本隐式因果检测的多级神经网络"></a>用于网络文本隐式因果检测的多级神经网络</h1><blockquote><p><i class="fas fa-file-signature"></i>   A multi-level neural network for implicit causality detection in web texts<br><i class="fas fa-bookmark"></i>   Neurocomputing<br><i class="far fa-calendar-alt"></i>   April 7, 2022.<br><i class="fas fa-user-friends"></i> Shining Liang, Wanli Zuo, <em>Zhenkun Shi*</em>, Sen Wang, Junhu Wang, Xianglin Zuo</p></blockquote><a id="more"></a><h2 id="Abstract"><a href="#Abstract" class="headerlink" title="Abstract"></a>Abstract</h2><p>Mining causality from text is a complex and crucial natural language understanding task corresponding to human cognition. Existing studies on this subject can be divided into two categories: feature engineering-based and neural model-based methods. In this paper, we find that the former has incomplete coverage and intrinsic errors but provides prior knowledge, whereas the latter leverages context information but has insufficient causal inference. To address the limitations, we propose a novel causality detection model named MCDN, which explicitly models the causal reasoning process, and exploits the advantages of both methods. Specifically, we adopt multi-head self-attention to acquire semantic features at the word level and develop the SCRN to infer causality at the segment level. To the best of our knowledge, this is the first time the Relation Network is applied with regard to the causality tasks. The experimental results demonstrate that: i) the proposed method outperforms the strong baselines on causality detection; ii) further analysis manifests the effectiveness and robustness of MCDN.</p><h2 id="Attachment"><a href="#Attachment" class="headerlink" title="Attachment"></a>Attachment</h2><p><i class="fas fa-file-pdf"></i> <a href="/attachements/22_liang_cauasality.pdf">A multi-level neural network for implicit causality detection in web texts</a></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;用于网络文本隐式因果检测的多级神经网络&quot;&gt;&lt;a href=&quot;#用于网络文本隐式因果检测的多级神经网络&quot; class=&quot;headerlink&quot; title=&quot;用于网络文本隐式因果检测的多级神经网络&quot;&gt;&lt;/a&gt;用于网络文本隐式因果检测的多级神经网络&lt;/h1&gt;&lt;blockquote&gt;
+&lt;p&gt;&lt;i class=&quot;fas fa-file-signature&quot;&gt;&lt;/i&gt;   A multi-level neural network for implicit causality detection in web texts&lt;br&gt;&lt;i class=&quot;fas fa-bookmark&quot;&gt;&lt;/i&gt;   Neurocomputing&lt;br&gt;&lt;i class=&quot;far fa-calendar-alt&quot;&gt;&lt;/i&gt;   April 7, 2022.&lt;br&gt;&lt;i class=&quot;fas fa-user-friends&quot;&gt;&lt;/i&gt; Shining Liang, Wanli Zuo, &lt;em&gt;Zhenkun Shi*&lt;/em&gt;, Sen Wang, Junhu Wang, Xianglin Zuo&lt;/p&gt;
+&lt;/blockquote&gt;
+    
+    </summary>
+    
+    
+      <category term="paper" scheme="http://shizhenkun.cn/categories/paper/"/>
+    
+      <category term="journal" scheme="http://shizhenkun.cn/categories/paper/journal/"/>
+    
+    
+      <category term="published" scheme="http://shizhenkun.cn/tags/published/"/>
+    
+      <category term="journal" scheme="http://shizhenkun.cn/tags/journal/"/>
+    
+      <category term="nlp" scheme="http://shizhenkun.cn/tags/nlp/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Integrating reviews and ratings into graph neural networks for rating prediction</title>
+    <link href="http://shizhenkun.cn/2023/05/20/reviewrating/"/>
+    <id>http://shizhenkun.cn/2023/05/20/reviewrating/</id>
+    <published>2023-05-20T05:16:20.000Z</published>
+    <updated>2023-05-20T05:28:14.452Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="集成评论与评分到图神经网络中进行评分预测"><a href="#集成评论与评分到图神经网络中进行评分预测" class="headerlink" title="集成评论与评分到图神经网络中进行评分预测"></a>集成评论与评分到图神经网络中进行评分预测</h1><blockquote><p><i class="fas fa-file-signature"></i>   Integrating reviews and ratings into graph neural networks for rating prediction<br><i class="fas fa-bookmark"></i>   Journal of Ambient Intelligence and Humanized Computing<br><i class="far fa-calendar-alt"></i>   February 24, 2022.<br><i class="fas fa-user-friends"></i> Yijia Zhang, Wanli Zuo, <strong>Zhenkun Shi*</strong>, Binod Kumar Adhikari.</p></blockquote><a id="more"></a><h2 id="Abstract"><a href="#Abstract" class="headerlink" title="Abstract"></a>Abstract</h2><p>In the area of recommendation systems, one of the fundamental tasks is rating prediction. Most existing neural network methods independently extract user’s and item’s review features utilizing a parallel convolutional neural network(CNN) and use them as the representation of users and items to predict rating scores. There are two main drawbacks of these methods: (1) They typically only leverage user or item reviews but ignore the latent information provided by user-item interactions. (2) The historical rating scores are not integrated into the representation of users and items, they are simply used as labels to train models. Thus the rating information is not adequately utilized, leading to the prediction performance of these methods is not superior. To remedy these drawbacks mentioned above, in this paper, we build a unified graph convolutional network(GCN) to capture the interaction information between user and item, also obtain additional information provided by reviews and rating scores. As both reviews and ratings carry interactive messages among users and items, they would magnify the learning performance of user-item features. Specifically, we first construct a multi-attributed bipartite graph(MA-bipartite graph) to represent users, items, and their interactions through reviews and ratings. Then we divide the MA-bipartite graph into two sub-graphs according to the attributes of the edge types which represent the user-item interaction in review domain and item domain respectively. Next, an attributed GCN model is explicitly designed to learn latent features of users and items by incorporating review embeddings and rating score weights. Finally, the attention mechanism is carried to fuse user and item features dynamically to conduct the rating prediction. We conduct our experiments on two real-world datasets. The results demonstrate that the proposed model achieved the state-of-the-art performance, which increases the prediction accuracy by more than 3%, compared with baseline methods.</p><h2 id="Attachment"><a href="#Attachment" class="headerlink" title="Attachment"></a>Attachment</h2><p><i class="fas fa-file-pdf"></i> <a href="/attachements/22_zhang22rating.pdf">Integrating reviews and ratings into graph neural networks for rating prediction</a></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;集成评论与评分到图神经网络中进行评分预测&quot;&gt;&lt;a href=&quot;#集成评论与评分到图神经网络中进行评分预测&quot; class=&quot;headerlink&quot; title=&quot;集成评论与评分到图神经网络中进行评分预测&quot;&gt;&lt;/a&gt;集成评论与评分到图神经网络中进行评分预测&lt;/h1&gt;&lt;blockquote&gt;
+&lt;p&gt;&lt;i class=&quot;fas fa-file-signature&quot;&gt;&lt;/i&gt;   Integrating reviews and ratings into graph neural networks for rating prediction&lt;br&gt;&lt;i class=&quot;fas fa-bookmark&quot;&gt;&lt;/i&gt;   Journal of Ambient Intelligence and Humanized Computing&lt;br&gt;&lt;i class=&quot;far fa-calendar-alt&quot;&gt;&lt;/i&gt;   February 24, 2022.&lt;br&gt;&lt;i class=&quot;fas fa-user-friends&quot;&gt;&lt;/i&gt; Yijia Zhang, Wanli Zuo, &lt;strong&gt;Zhenkun Shi*&lt;/strong&gt;, Binod Kumar Adhikari.&lt;/p&gt;
+&lt;/blockquote&gt;
+    
+    </summary>
+    
+    
+      <category term="paper" scheme="http://shizhenkun.cn/categories/paper/"/>
+    
+      <category term="journal" scheme="http://shizhenkun.cn/categories/paper/journal/"/>
+    
+    
+      <category term="published" scheme="http://shizhenkun.cn/tags/published/"/>
+    
+      <category term="journal" scheme="http://shizhenkun.cn/tags/journal/"/>
+    
+      <category term="recommendation" scheme="http://shizhenkun.cn/tags/recommendation/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Deep dynamic imputation of clinical time series for mortality prediction</title>
     <link href="http://shizhenkun.cn/2021/12/24/deepIMP/"/>
     <id>http://shizhenkun.cn/2021/12/24/deepIMP/</id>
     <published>2021-12-24T02:39:38.000Z</published>
-    <updated>2021-12-24T02:44:24.711Z</updated>
+    <updated>2023-05-16T09:26:59.373Z</updated>
     
     <content type="html"><![CDATA[<h1 id="用于ICU病人疾病诊断与病情严重程度评估的一个集成模型"><a href="#用于ICU病人疾病诊断与病情严重程度评估的一个集成模型" class="headerlink" title="用于ICU病人疾病诊断与病情严重程度评估的一个集成模型"></a>用于ICU病人疾病诊断与病情严重程度评估的一个集成模型</h1><blockquote><p><i class="fas fa-file-signature"></i>   Deep dynamic imputation of clinical time series for mortality prediction<br><i class="fas fa-bookmark"></i>   INFORMATION SCIENCES<br><i class="fas fa-user-friends"></i> <strong>Zhenkun Shi</strong>, Sen Wang, Lin Yue, Lixin Pang, Xianglin Zuo, Wanli Zuo, Xue Li.</p></blockquote><a id="more"></a><h2 id="Abstract"><a href="#Abstract" class="headerlink" title="Abstract"></a>Abstract</h2><p>Missing values in clinical time-series data are pervasive and inevitable; they not only increase the complexity and difficulty of analyzing the data but also lead to biased results. To tackle these two problems, researchers have been exploring recurrent neural network (RNN)-based methods for detecting how well missing values are addressed with the aim of achieving state-of-the-art performance. However, these methods have two practical drawbacks. 1) Handling time-series data with multiple, irregular, abnormal values is difficult. 2) The patterns that may be present in the missing clinical data are not thoroughly considered. Moreover, to the best of our knowledge, none of these methods have been explicitly designed to dynamically optimize the imputation quality for better performance in the realm of clinical time-series analytics. By considering the quality of imputed values, we propose a 2-step integrated imputation-prediction model based on gated recurrent units (GRUs) for medical prediction tasks. In the first step, the missing values are imputed using a sophisticated model based on a replenished GRU with a hidden state decay mechanism (RGRU-D), which is followed by evaluation through two additional layers. In the second step, the optimized imputed values are used to predict the risk of mortality in critical patients. Our model effectively supplies missing values for the masking, time interval, bursty, and cumulative missing rate variables within an integrated deep architecture. Extensive experiments on a real-world ICU dataset demonstrate that our model performs better than the compared methods in terms of the imputation quality and prediction accuracy. (c) 2021 Elsevier Inc. All rights reserved.</p><h2 id="Attachment"><a href="#Attachment" class="headerlink" title="Attachment"></a>Attachment</h2><p><i class="fas fa-file-pdf"></i> <a href="/attachements/21_shi_imputation.pdf">Deep dynamic imputation of clinical time series for mortality prediction</a></p>]]></content>
     
@@ -52,14 +176,14 @@
     <link href="http://shizhenkun.cn/2021/12/24/dfsgeneration/"/>
     <id>http://shizhenkun.cn/2021/12/24/dfsgeneration/</id>
     <published>2021-12-24T02:22:48.000Z</published>
-    <updated>2021-12-24T02:41:47.601Z</updated>
+    <updated>2023-05-20T05:28:21.590Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="ICU死亡率预测的判别特征生成"><a href="#ICU死亡率预测的判别特征生成" class="headerlink" title="ICU死亡率预测的判别特征生成"></a>ICU死亡率预测的判别特征生成</h1><blockquote><p><i class="fas fa-file-signature"></i>   Discriminative Features Generation for Mortality Prediction in ICU<br><i class="fas fa-bookmark"></i>   International Conference on Advanced Data Mining and Applications<br><i class="far fa-calendar-alt"></i>   November 12–14, 2020.<br><i class="fas fa-globe"></i>   Dalian, Chian.<br><i class="fas fa-user-friends"></i> Suresh Pokharel, <strong>Zhenkun Shi*</strong>., Guido Zuccon, &amp; Yu Li.</p></blockquote><a id="more"></a><h2 id="Abstract"><a href="#Abstract" class="headerlink" title="Abstract"></a>Abstract</h2><p>Effective methods for mortality prediction for Intensive Care Unit (ICU) patients assist health professionals by producing alerts ahead of time regarding the critical changing degeneration of a patient’s health. This can guide health professionals to take immediate interventions to rescue the lives of patients. However, existing methods only use raw clinical features and ignore the compound information exhibited by Electronic Health Records (EHRs) data, i.e., the co-occurrence of different clinical events at the same point of time (or within a short time interval). In this paper we use a recently proposed method, called Temporal Tree, to capture the compound information and use them as discriminative features. In addition, to test the impact of preserving temporal information, we capture compound information in terms of patient situations (i.e., the patient’s medical condition at particular point of time), and represent a patient as a sequence of patient situations. This is contrasted with the baseline approach of representing a patient by the associated sequence of clinical events (bag-of-words like). These representations are further processed to obtain low dimensional embeddings used to represent patients and their situations.</p><p>The effectiveness of the proposed methods is evaluated using a real ICU dataset with nine different baselines and state-of-the-art classifiers. The empirical results show the Temporal Tree method is able to generate discriminative patient representations. Classifiers that exploited the compounded information significantly improved the quality of ICU mortality predictions, in all cases and across both bag-of-words (up to   7.814%  improvements) and patient situations representations (up to   2.720%  improvements).</p><h2 id="Attachment"><a href="#Attachment" class="headerlink" title="Attachment"></a>Attachment</h2><p><i class="fas fa-file-pdf"></i> <a href="/attachements/Pokharel20_DiscriminativeFeaturesGenerati.pdf">Discriminative Features Generation for Mortality Prediction in ICU</a></p>]]></content>
+    <content type="html"><![CDATA[<h1 id="ICU死亡率预测的判别特征生成"><a href="#ICU死亡率预测的判别特征生成" class="headerlink" title="ICU死亡率预测的判别特征生成"></a>ICU死亡率预测的判别特征生成</h1><blockquote><p><i class="fas fa-file-signature"></i>   Discriminative Features Generation for Mortality Prediction in ICU<br><i class="fas fa-bookmark"></i>   International Conference on Advanced Data Mining and Applications<br><i class="far fa-calendar-alt"></i>   November 12–14, 2020.<br><i class="fas fa-globe"></i>   Dalian, China.<br><i class="fas fa-user-friends"></i> Suresh Pokharel, <strong>Zhenkun Shi*</strong>., Guido Zuccon, &amp; Yu Li.</p></blockquote><a id="more"></a><h2 id="Abstract"><a href="#Abstract" class="headerlink" title="Abstract"></a>Abstract</h2><p>Effective methods for mortality prediction for Intensive Care Unit (ICU) patients assist health professionals by producing alerts ahead of time regarding the critical changing degeneration of a patient’s health. This can guide health professionals to take immediate interventions to rescue the lives of patients. However, existing methods only use raw clinical features and ignore the compound information exhibited by Electronic Health Records (EHRs) data, i.e., the co-occurrence of different clinical events at the same point of time (or within a short time interval). In this paper we use a recently proposed method, called Temporal Tree, to capture the compound information and use them as discriminative features. In addition, to test the impact of preserving temporal information, we capture compound information in terms of patient situations (i.e., the patient’s medical condition at particular point of time), and represent a patient as a sequence of patient situations. This is contrasted with the baseline approach of representing a patient by the associated sequence of clinical events (bag-of-words like). These representations are further processed to obtain low dimensional embeddings used to represent patients and their situations.</p><p>The effectiveness of the proposed methods is evaluated using a real ICU dataset with nine different baselines and state-of-the-art classifiers. The empirical results show the Temporal Tree method is able to generate discriminative patient representations. Classifiers that exploited the compounded information significantly improved the quality of ICU mortality predictions, in all cases and across both bag-of-words (up to   7.814%  improvements) and patient situations representations (up to   2.720%  improvements).</p><h2 id="Attachment"><a href="#Attachment" class="headerlink" title="Attachment"></a>Attachment</h2><p><i class="fas fa-file-pdf"></i> <a href="/attachements/Pokharel20_DiscriminativeFeaturesGenerati.pdf">Discriminative Features Generation for Mortality Prediction in ICU</a></p>]]></content>
     
     <summary type="html">
     
       &lt;h1 id=&quot;ICU死亡率预测的判别特征生成&quot;&gt;&lt;a href=&quot;#ICU死亡率预测的判别特征生成&quot; class=&quot;headerlink&quot; title=&quot;ICU死亡率预测的判别特征生成&quot;&gt;&lt;/a&gt;ICU死亡率预测的判别特征生成&lt;/h1&gt;&lt;blockquote&gt;
-&lt;p&gt;&lt;i class=&quot;fas fa-file-signature&quot;&gt;&lt;/i&gt;   Discriminative Features Generation for Mortality Prediction in ICU&lt;br&gt;&lt;i class=&quot;fas fa-bookmark&quot;&gt;&lt;/i&gt;   International Conference on Advanced Data Mining and Applications&lt;br&gt;&lt;i class=&quot;far fa-calendar-alt&quot;&gt;&lt;/i&gt;   November 12–14, 2020.&lt;br&gt;&lt;i class=&quot;fas fa-globe&quot;&gt;&lt;/i&gt;   Dalian, Chian.&lt;br&gt;&lt;i class=&quot;fas fa-user-friends&quot;&gt;&lt;/i&gt; Suresh Pokharel, &lt;strong&gt;Zhenkun Shi*&lt;/strong&gt;., Guido Zuccon, &amp;amp; Yu Li.&lt;/p&gt;
+&lt;p&gt;&lt;i class=&quot;fas fa-file-signature&quot;&gt;&lt;/i&gt;   Discriminative Features Generation for Mortality Prediction in ICU&lt;br&gt;&lt;i class=&quot;fas fa-bookmark&quot;&gt;&lt;/i&gt;   International Conference on Advanced Data Mining and Applications&lt;br&gt;&lt;i class=&quot;far fa-calendar-alt&quot;&gt;&lt;/i&gt;   November 12–14, 2020.&lt;br&gt;&lt;i class=&quot;fas fa-globe&quot;&gt;&lt;/i&gt;   Dalian, China.&lt;br&gt;&lt;i class=&quot;fas fa-user-friends&quot;&gt;&lt;/i&gt; Suresh Pokharel, &lt;strong&gt;Zhenkun Shi*&lt;/strong&gt;., Guido Zuccon, &amp;amp; Yu Li.&lt;/p&gt;
 &lt;/blockquote&gt;
     
     </summary>
@@ -83,7 +207,7 @@
     <link href="http://shizhenkun.cn/2020/05/18/IDDSAM/"/>
     <id>http://shizhenkun.cn/2020/05/18/IDDSAM/</id>
     <published>2020-05-18T11:33:06.000Z</published>
-    <updated>2021-12-24T02:19:13.593Z</updated>
+    <updated>2023-05-16T09:26:59.342Z</updated>
     
     <content type="html"><![CDATA[<h1 id="用于ICU病人疾病诊断与病情严重程度评估的一个集成模型"><a href="#用于ICU病人疾病诊断与病情严重程度评估的一个集成模型" class="headerlink" title="用于ICU病人疾病诊断与病情严重程度评估的一个集成模型"></a>用于ICU病人疾病诊断与病情严重程度评估的一个集成模型</h1><blockquote><p><i class="fas fa-file-signature"></i>   IDDSAM &#58; An Integrated Disease Diagnosis and Severity Assessment Model for Intensive Care Units<br><i class="fas fa-bookmark"></i>   IEEE Access<br><i class="fas fa-user-friends"></i> <strong>Zhenkun Shi</strong>, Wanli Zuo, Shining Liang, Xianglin Zuo*, Lin Yue, Xue Li.</p></blockquote><a id="more"></a><h2 id="Abstract"><a href="#Abstract" class="headerlink" title="Abstract"></a>Abstract</h2><p>People are admitted to intensive care units (ICUs) because they need complete support for failing organ systems, constant monitoring, routine nursing care, and treatment. A critical or intensive illness is different from conventional or chronic diseases that most people are likely to have previously encountered. Such an illness is often unexpected and without warnings and can suddenly strike the previously fit. High levels of treatment and support are generally required to prevent life-threatening complications for the patents. Two of the most noticeable actions during an ICU stay are disease diagnosis and severity assessment of the patients. Unlike the majority of previous approaches where diagnosis and severity assessment are studied separately, we treat these actions as two tasks in an integrated procedure that clinicians must be able to quickly and accurately conduct such that patients are given the best possible chance for therapeutic success. In this paper, we propose an integrated disease diagnosis and severity assessment model (IDDSAM) to diagnose and assess diseases. Moreover, accompanying the prediction, we also provide an evidence-based explanation. IDDSAM is a multisource multitask model that is based on an attention mechanism and utilizes shareable information from laboratory tests, bedside monitoring, and complications to support patients’ severity assessment and in-hospital disease diagnoses. We use 50,430 ICU cases consisting of 46,520 patients from 50 kinds of diseases over nine classifications to evaluate our proposed model. The experimental results demonstrated that our model outperforms the existing state-of-the-art mortality and diagnosis prediction framework by 3.79% on average in terms of accuracy for the mortality prediction tasks and by 14.51% on average for the diagnosis tasks.</p><h2 id="Attachment"><a href="#Attachment" class="headerlink" title="Attachment"></a>Attachment</h2><p><i class="fas fa-file-pdf"></i> <a href="/attachements/20_shi_iddsam.pdf">IDDSAM &#58; An Integrated Disease Diagnosis and Severity Assessment Model for Intensive Care Units</a></p>]]></content>
     
@@ -114,7 +238,7 @@
     <link href="http://shizhenkun.cn/2020/05/13/jointMarkov/"/>
     <id>http://shizhenkun.cn/2020/05/13/jointMarkov/</id>
     <published>2020-05-13T04:48:51.000Z</published>
-    <updated>2021-12-24T02:15:18.930Z</updated>
+    <updated>2023-05-16T09:26:59.389Z</updated>
     
     <content type="html"><![CDATA[<h1 id="利用联合个性化的马尔可夫链和社交网络嵌入解决推荐中的冷启动问题"><a href="#利用联合个性化的马尔可夫链和社交网络嵌入解决推荐中的冷启动问题" class="headerlink" title="利用联合个性化的马尔可夫链和社交网络嵌入解决推荐中的冷启动问题"></a>利用联合个性化的马尔可夫链和社交网络嵌入解决推荐中的冷启动问题</h1><blockquote><p><i class="fas fa-file-signature"></i>   Joint Personalized Markov Chains with Social Network Embedding for Cold-Start Recommendation<br><i class="fas fa-bookmark"></i>   Neurocomputing<br><i class="fas fa-user-friends"></i> Yijia Zhang, <strong>Zhenkun Shi*</strong>, Wanli Zuo, Lin Yue, Shining Liang, Xue Li.</p></blockquote><a id="more"></a><h2 id="Abstract"><a href="#Abstract" class="headerlink" title="Abstract"></a>Abstract</h2><p>The primary objective of recommender systems is to help users select their desired items, where a key challenge is providing high-quality recommendations to users in a “cold-start” situation. Recent advances in tackling this problem combine social relations and temporal information and integrate them into a unified framework. However, these methods suffer from a limitation that there not always exist links for the newcomers, thus these users are filtered in related studies. To break the boundary, in this paper, we propose a Joint Personalized Markov Chains (JPMC) model to address the cold-start issues for implicit feedback recommendation system. In our study, we first utilize user embedding to mine Network Neighbors, so that newcomers without relations can be represented by similar users, then we designed a two-level model based on Markov chains at both user level and user group level respectively to model user preferences dynamically. Experimental results on three real-world datasets have shown that our model can significantly outperform the state-of-the-art models.</p><h2 id="Attachment"><a href="#Attachment" class="headerlink" title="Attachment"></a>Attachment</h2><p><i class="fas fa-file-pdf"></i> <a href="/attachements/20_zhang_jointm.pdf">Joint Personalized Markov Chains with Social Network Embedding for Cold-Start Recommendation</a></p>]]></content>
     
@@ -145,7 +269,7 @@
     <link href="http://shizhenkun.cn/2019/11/11/DIMM/"/>
     <id>http://shizhenkun.cn/2019/11/11/DIMM/</id>
     <published>2019-11-11T01:08:01.000Z</published>
-    <updated>2021-12-24T02:14:06.272Z</updated>
+    <updated>2023-05-16T09:26:59.335Z</updated>
     
     <content type="html"><![CDATA[<h1 id="深度可解释ICU死亡率预测模型"><a href="#深度可解释ICU死亡率预测模型" class="headerlink" title="深度可解释ICU死亡率预测模型"></a>深度可解释ICU死亡率预测模型</h1><blockquote><p><i class="fas fa-file-signature"></i>   Deep Interpretable Mortality Model for Intensive Care Unit Risk Prediction<br><i class="fas fa-bookmark"></i>   ADMA 2019 : The 15th International Conference on Advanced Data Mining and Applications<br><i class="far fa-calendar-alt"></i>   Nov 21, 2019 - Nov 23, 2019.<br><i class="fas fa-globe"></i>   Dalian, China<br><i class="fas fa-user-friends"></i> <strong>Zhenkun Shi</strong>, Weitong Chen, Shining Liang, Wanli Zuo*, Lin Yue, Sen Wang.</p></blockquote><a id="more"></a><h2 id="Abstract"><a href="#Abstract" class="headerlink" title="Abstract"></a>Abstract</h2><p>Estimating the mortality of patients plays a fundamental role in an intensive care unit (ICU). Currently, most learning approaches are based on deep learning models. However, these approaches in mor- tality prediction suffer from two problems: (i) the specificity of causes of death are not considered in the learning process due to the differ- ent diseases, and symptoms are mixed-used without diversification and localization; (ii) the learning outcome for the mortality prediction is not self-explainable for the clinicians. In this paper, we propose a Deep Inter- pretable Mortality Model (DIMM), which employs Multi-Source Embed- ding, Gated Recurrent Units (GRU), Attention mechanism and Focal Loss techniques to prognosticate mortality prediction. We intensified the mortality prediction by considering the different clinical measures, med- ical treatments and the heterogeneity of the disease. More importantly, for the first time, in this framework, we use a separate evidence-based interpreter named Highlighter to interpret the prediction model, which makes the prediction understandable and trustworthy to clinicians. We demonstrate that our approach achieves state-of-the-art performance in mortality prediction and can get an interpretable prediction on four dif- ferent diseases.</p><h2 id="Attachment"><a href="#Attachment" class="headerlink" title="Attachment"></a>Attachment</h2><p><i class="fas fa-file-pdf"></i> <a href="/attachements/19_shi_deep_mortality.pdf">Deep Interpretable Mortality Model for Intensive Care Unit Risk Prediction</a></p>]]></content>
     
@@ -176,7 +300,7 @@
     <link href="http://shizhenkun.cn/2019/04/25/dmmam/"/>
     <id>http://shizhenkun.cn/2019/04/25/dmmam/</id>
     <published>2019-04-25T01:08:01.000Z</published>
-    <updated>2021-12-24T02:15:11.610Z</updated>
+    <updated>2023-05-16T09:26:59.385Z</updated>
     
     <content type="html"><![CDATA[<h1 id="基于Attention的多源多任务ICU疾病诊断模型"><a href="#基于Attention的多源多任务ICU疾病诊断模型" class="headerlink" title="基于Attention的多源多任务ICU疾病诊断模型"></a>基于Attention的多源多任务ICU疾病诊断模型</h1><blockquote><p><i class="fas fa-file-signature"></i>   DMMAM &#58; Deep Multi-Source Multi-Task Attention Model for Intensive Care Unit Diagnosis<br><i class="fas fa-bookmark"></i>   DASFAA 2019: Database Systems for Advanced Applications<br><i class="far fa-calendar-alt"></i>   Apr 22, 2019 - Apr 25, 2019.<br><i class="fas fa-globe"></i>   Chiang Mai, Thailand<br><i class="fas fa-user-friends"></i> <strong>Zhenkun Shi</strong>, Wanli Zuo, Weitong Chen, Lin Yue, Yuwei Hao, Shining Liang*.</p></blockquote><a id="more"></a><h2 id="Abstract"><a href="#Abstract" class="headerlink" title="Abstract"></a>Abstract</h2><p>Disease diagnosis can provide crucial information for clin- ical decisions that influence the outcome in acute serious illness, and this is particularly in the intensive care unit (ICU). However, the cen- tral role of diagnosis in clinical practice is challenged by evidence that does not always benefit patients and that factors other than disease are important in determining patient outcome. To streamline the diagnos- tic process in daily routine and avoid misdiagnoses, in this paper, we proposed a deep multi-source multi-task attention model (DMMAM) for ICU disease diagnosis. DMMAM exploits multi-sources information from various types of complications, clinical measurements, and the medical treatments to support the diagnosis. We evaluate the proposed model with 50 diseases of 9 classifications on an extensive collection of real- world ICU Electronic Health Records (EHR) dataset with 151729 ICU admissions from 46520 patients. Experiments results demonstrate the effectiveness and the robustness of our model.</p><h2 id="Attachment"><a href="#Attachment" class="headerlink" title="Attachment"></a>Attachment</h2><p><i class="fas fa-file-pdf"></i> <a href="/attachements/19_shi_dmmam.pdf">DMMAM &#58; Deep Multi-Source Multi-Task Attention Model for Intensive Care Unit Diagnosis</a></p>]]></content>
     
@@ -207,7 +331,7 @@
     <link href="http://shizhenkun.cn/2018/05/21/sbpranking/"/>
     <id>http://shizhenkun.cn/2018/05/21/sbpranking/</id>
     <published>2018-05-21T01:02:01.000Z</published>
-    <updated>2021-12-24T02:19:13.593Z</updated>
+    <updated>2023-05-16T09:26:59.398Z</updated>
     
     <content type="html"><![CDATA[<h1 id="在含缺失数据的隐式反馈推荐中的个人社会贝叶斯排名"><a href="#在含缺失数据的隐式反馈推荐中的个人社会贝叶斯排名" class="headerlink" title="在含缺失数据的隐式反馈推荐中的个人社会贝叶斯排名"></a>在含缺失数据的隐式反馈推荐中的个人社会贝叶斯排名</h1><blockquote><p><i class="fas fa-file-signature"></i>   Social Bayesian personal ranking for missing data in implicit feedback recommendation<br><i class="fas fa-bookmark"></i>   KSEM 2018 : The 11th International Conference on Knowledge Science, Engineering and Management<br><i class="far fa-calendar-alt"></i>   Aug 17, 2018 - Aug 19, 2018.<br><i class="fas fa-globe"></i>   Changchun, China.<br><i class="fas fa-user-friends"></i> Yijia Zhang, Wanli Zuo, <strong>Zhenkun Shi*</strong>, Lin Yue, Shining Liang.   </p></blockquote><a id="more"></a><h2 id="Abstract"><a href="#Abstract" class="headerlink" title="Abstract"></a>Abstract</h2><p>Recommendation systems estimate user’s preference to suggest items that might be interesting for them. Recently, implicit feedback recommendation has been steadily receiving more attention because it can be collected on a larger scale with a much lower cost than explicit feedback. The typical methods for recommendation are not well-designed for implicit feedback recommendation. Some effective methods have been proposed to improve implicit feedback recommendation, but most of them suffer from the problems of data sparsity and usually ignore the missing data in implicit feedback. Recent studies illustrate that social information can help resolve these issues. Towards this end, we propose a joint factorization model under the BPR framework utilizing social information. Remarkable, the experimental results show that our method performs much better than the state-of-the-art approaches and is capable of solving implicit problems, which indicates the importance of incorporating social information in the recommendation process to address the poor prediction accuracy.  </p><h2 id="Attachment"><a href="#Attachment" class="headerlink" title="Attachment"></a>Attachment</h2><p><i class="fas fa-file-pdf"></i> <a href="/attachements/18_zhang_sbpr.pdf">Social Bayesian personal ranking for missing data in implicit feedback recommendation</a></p>]]></content>
     
@@ -238,7 +362,7 @@
     <link href="http://shizhenkun.cn/2018/05/16/thyroid/"/>
     <id>http://shizhenkun.cn/2018/05/16/thyroid/</id>
     <published>2018-05-16T14:02:01.000Z</published>
-    <updated>2021-12-24T02:19:13.592Z</updated>
+    <updated>2023-05-16T09:26:59.406Z</updated>
     
     <content type="html"><![CDATA[<h1 id="使用MS-Apriori改进的决策树来预测甲状腺淋巴癌转移"><a href="#使用MS-Apriori改进的决策树来预测甲状腺淋巴癌转移" class="headerlink" title="使用MS-Apriori改进的决策树来预测甲状腺淋巴癌转移"></a>使用MS-Apriori改进的决策树来预测甲状腺淋巴癌转移</h1><blockquote><p><i class="fas fa-file-signature"></i>   Prognosis of Thyroid Disease Using MS-Apriori Improved Decision Tree<br><i class="fas fa-bookmark"></i>   KSEM 2018 : The 11th International Conference on Knowledge Science, Engineering and Management<br><i class="far fa-calendar-alt"></i>   Aug 17, 2018 - Aug 19, 2018.<br><i class="fas fa-globe"></i>   Changchun, China.<br><i class="fas fa-user-friends"></i> Yuwei Hao, Wanli Zuo, <strong>Zhenkun Shi*</strong>, Lin Yue, Shuai Xue, Fengling He.   </p></blockquote><a id="more"></a><h2 id="Abstract"><a href="#Abstract" class="headerlink" title="Abstract"></a>Abstract</h2><p>The lymph nodes metastasis in the papillary thyroid microcarcinoma (PTMC) can lead to a recurrence of cancer. We hope to take preventive mea- sures to reduce the recurrence rate of the thyroid cancer. This paper presents a decision tree improved by MS-Apriori for the prognosis of lymph node metastasis (LNM) in patients with PTMC, called MsaDtd (Decision tree Diagnosis based on MS-Apriori). The method converts the original feature space into a more abundant feature space, MS-Apriori is used to generate association rules that consider rare items by multiple supports and fuzzy logic is introduced to map attribute values to different subintervals. Then, we filter the ranked rules which consider positive and negative tuples. We improve accuracy through deleting disturbance rules. At last, we use the decision tree to predict LNM by analyzing the affiliation between the instance and rules. Clinical-pathological data were obtained from the First Hospital of Jilin University. The results show that the proposed MsaDtd achieves better prediction performance than other methods on the prognosis of LNM.</p><h2 id="Attachment"><a href="#Attachment" class="headerlink" title="Attachment"></a>Attachment</h2><p><i class="fas fa-file-pdf"></i> <a href="/attachements/18_hao.pdf">Prognosis of Thyroid Disease Using MS-Apriori Improved Decision Tree</a></p>]]></content>
     
@@ -269,7 +393,7 @@
     <link href="http://shizhenkun.cn/2017/04/12/User%20relation%20prediction%20based%20on%20matrix%20factorization%20and%20hybrid%20particle%20swarm%20optimization/"/>
     <id>http://shizhenkun.cn/2017/04/12/User%20relation%20prediction%20based%20on%20matrix%20factorization%20and%20hybrid%20particle%20swarm%20optimization/</id>
     <published>2017-04-12T13:08:01.000Z</published>
-    <updated>2021-12-24T02:15:30.643Z</updated>
+    <updated>2023-05-16T09:26:59.365Z</updated>
     
     <content type="html"><![CDATA[<h1 id="基于矩阵分解和混合粒子群优化的用户关系预测"><a href="#基于矩阵分解和混合粒子群优化的用户关系预测" class="headerlink" title="基于矩阵分解和混合粒子群优化的用户关系预测"></a>基于矩阵分解和混合粒子群优化的用户关系预测</h1><blockquote><p><i class="fas fa-file-signature"></i>   User relation prediction based on matrix factorization and hybrid particle swarm optimization<br><i class="fas fa-bookmark"></i>   WWW2017: The 26th World Wide Web Conference<br><i class="far fa-calendar-alt"></i>   April 3, 2017 - April 7, 2017.<br><i class="fas fa-globe"></i>   Perth, Australia<br><i class="fas fa-user-friends"></i> <strong>Zhenkun Shi</strong>, Wanli Zuo*, Weitong Chen, Lin Yue, Jiayu Han, Lizhou Feng.</p></blockquote><a id="more"></a><h2 id="Abstract"><a href="#Abstract" class="headerlink" title="Abstract"></a>Abstract</h2><p>Many real-world domains are relational in nature, consisting of a set of objects related to each other in complex ways. Matrix factorization is an effective method in relationship prediction, However, traditional matrix factorization link prediction methods can only be used for non-negative matrix. In this paper, a generalized framework, itelliPrediction, is presented that is able to deal with positive and negative matrix. The novel itelliPrediction framework is domain independent and with high precision. We validate our approach using two different data sources, an open data sets and a real-word dataset, the result demonstrated that the quality of our approach is comparable to, if not better than, exiting state of the art relation predication framework.</p><h2 id="Attachment"><a href="#Attachment" class="headerlink" title="Attachment"></a>Attachment</h2><p><i class="fas fa-file-pdf"></i> <a href="/attachements/17_shi_user_relation.pdf">User relation prediction based on matrix factorization and hybrid particle swarm optimization</a></p>]]></content>
     
@@ -300,7 +424,7 @@
     <link href="http://shizhenkun.cn/2017/03/27/Multi-factors-based%20sentence%20ordering%20for%20cross-document%20fusion%20from%20multimodal%20content/"/>
     <id>http://shizhenkun.cn/2017/03/27/Multi-factors-based%20sentence%20ordering%20for%20cross-document%20fusion%20from%20multimodal%20content/</id>
     <published>2017-03-27T05:32:23.000Z</published>
-    <updated>2021-12-24T02:19:13.593Z</updated>
+    <updated>2023-05-16T09:26:59.353Z</updated>
     
     <content type="html"><![CDATA[<h1 id="深度可解释ICU死亡率预测模型"><a href="#深度可解释ICU死亡率预测模型" class="headerlink" title="深度可解释ICU死亡率预测模型"></a>深度可解释ICU死亡率预测模型</h1><blockquote><p><i class="fas fa-file-signature"></i>   Multi-factors-based sentence ordering for cross-document fusion from multimodal content<br><i class="fas fa-bookmark"></i>  Neurocomputing<br><i class="fas fa-user-friends"></i> Lin Yue, <strong>Zhenkun Shi</strong>, Jiayu Han, Sen Wang, Weitong Chen, Wanli Zuo*. </p></blockquote><a id="more"></a><h2 id="Abstract"><a href="#Abstract" class="headerlink" title="Abstract"></a>Abstract</h2><p>Organizing a coherent structure of the sentences extracted from multiple documents, guarantees the fluency and readability of the fused document. In this paper, sentence ordering problem is treated as a combinatorial optimization problem and solved with continuous Hopfield neural network (CHNN). We unify the existing factors by considering the most frequent orders temporal information, and topical relevance between local themes during overall ordering process. Specifically, ordering algorithm traverses all the local themes and locates a shortest path as the final sentence ordering. We show the results with data from Document Understanding Conferences (DUC) 2002–2005, and demonstrate the effectiveness of the developed approach compared with Random Ordering (RO), Chronological Ordering (CO), Majority Ordering (MO), and Precedence Relation Ordering (PRO).</p><h2 id="Attachment"><a href="#Attachment" class="headerlink" title="Attachment"></a>Attachment</h2><p><i class="fas fa-file-pdf"></i> <a href="/attachements/17_yue_document.pdf">Multi-factors-based sentence ordering for cross-document fusion from multimodal content</a></p>]]></content>
     
@@ -320,9 +444,9 @@
     
       <category term="published" scheme="http://shizhenkun.cn/tags/published/"/>
     
-      <category term="conference" scheme="http://shizhenkun.cn/tags/conference/"/>
-    
       <category term="NLP" scheme="http://shizhenkun.cn/tags/NLP/"/>
+    
+      <category term="conference" scheme="http://shizhenkun.cn/tags/conference/"/>
     
   </entry>
   
