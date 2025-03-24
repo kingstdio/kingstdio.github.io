@@ -1,6 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>Multi-factors-based sentence ordering for cross-document fusion from multimodal content</title>
+    <url>/2017/03/27/Multi-factors-based%20sentence%20ordering%20for%20cross-document%20fusion%20from%20multimodal%20content/</url>
+    <content><![CDATA[<h1 id="深度可解释ICU死亡率预测模型"><a href="#深度可解释ICU死亡率预测模型" class="headerlink" title="深度可解释ICU死亡率预测模型"></a>深度可解释ICU死亡率预测模型</h1><blockquote>
+<p><i class="fas fa-file-signature"></i>   Multi-factors-based sentence ordering for cross-document fusion from multimodal content<br><i class="fas fa-bookmark"></i>  Neurocomputing<br><i class="fas fa-user-friends"></i> Lin Yue, <strong>Zhenkun Shi</strong>, Jiayu Han, Sen Wang, Weitong Chen, Wanli Zuo*. </p>
+</blockquote>
+<a id="more"></a>
+<h2 id="Abstract"><a href="#Abstract" class="headerlink" title="Abstract"></a>Abstract</h2><p>Organizing a coherent structure of the sentences extracted from multiple documents, guarantees the fluency and readability of the fused document. In this paper, sentence ordering problem is treated as a combinatorial optimization problem and solved with continuous Hopfield neural network (CHNN). We unify the existing factors by considering the most frequent orders temporal information, and topical relevance between local themes during overall ordering process. Specifically, ordering algorithm traverses all the local themes and locates a shortest path as the final sentence ordering. We show the results with data from Document Understanding Conferences (DUC) 2002–2005, and demonstrate the effectiveness of the developed approach compared with Random Ordering (RO), Chronological Ordering (CO), Majority Ordering (MO), and Precedence Relation Ordering (PRO).</p>
+<h2 id="Attachment"><a href="#Attachment" class="headerlink" title="Attachment"></a>Attachment</h2><p><i class="fas fa-file-pdf"></i> <a href="/attachements/17_yue_document.pdf">Multi-factors-based sentence ordering for cross-document fusion from multimodal content</a></p>
+]]></content>
+      <categories>
+        <category>paper</category>
+        <category>journal</category>
+      </categories>
+      <tags>
+        <tag>published</tag>
+        <tag>NLP</tag>
+        <tag>conference</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Deep Interpretable Mortality Model for Intensive Care Unit Risk Prediction</title>
     <url>/2019/11/11/DIMM/</url>
     <content><![CDATA[<h1 id="深度可解释ICU死亡率预测模型"><a href="#深度可解释ICU死亡率预测模型" class="headerlink" title="深度可解释ICU死亡率预测模型"></a>深度可解释ICU死亡率预测模型</h1><blockquote>
@@ -17,20 +37,20 @@
       </categories>
       <tags>
         <tag>published</tag>
-        <tag>medical data mining</tag>
         <tag>conference</tag>
+        <tag>medical data mining</tag>
       </tags>
   </entry>
   <entry>
-    <title>IDDSAM &amp;#58; An Integrated Disease Diagnosis and Severity Assessment Model for Intensive Care Units</title>
-    <url>/2020/05/18/IDDSAM/</url>
-    <content><![CDATA[<h1 id="用于ICU病人疾病诊断与病情严重程度评估的一个集成模型"><a href="#用于ICU病人疾病诊断与病情严重程度评估的一个集成模型" class="headerlink" title="用于ICU病人疾病诊断与病情严重程度评估的一个集成模型"></a>用于ICU病人疾病诊断与病情严重程度评估的一个集成模型</h1><blockquote>
-<p><i class="fas fa-file-signature"></i>   IDDSAM &#58; An Integrated Disease Diagnosis and Severity Assessment Model for Intensive Care Units<br><i class="fas fa-bookmark"></i>   IEEE Access<br><i class="fas fa-user-friends"></i> <strong>Zhenkun Shi</strong>, Wanli Zuo, Shining Liang, Xianglin Zuo*, Lin Yue, Xue Li.</p>
+    <title>AutoESD a web tool for automatic editing sequence design for genetic manipulation of microorganisms</title>
+    <url>/2023/05/22/autoesd/</url>
+    <content><![CDATA[<h1 id="AutoESD：自动编辑化基因序列设计的在线工具"><a href="#AutoESD：自动编辑化基因序列设计的在线工具" class="headerlink" title="AutoESD：自动编辑化基因序列设计的在线工具"></a>AutoESD：自动编辑化基因序列设计的在线工具</h1><blockquote>
+<p><i class="fas fa-file-signature"></i>   AutoESD: a web tool for automatic editing sequence design for genetic manipulation of microorganisms<br><i class="fas fa-bookmark"></i>   Nucleic Acids Research<br><i class="far fa-calendar-alt"></i>   October 17, 2022.<br><i class="fas fa-user-friends"></i> Yi Yang, Yufeng Mao, Ruoyu Wang, Haoran Li, Ye Liu, Haijiao Cheng, <strong>Zhenkun Shi</strong>, Yu Wang, Meng Wang, Ping Zheng, Xiaoping Liao, Hongwu Ma</p>
 </blockquote>
 <a id="more"></a>
 
-<h2 id="Abstract"><a href="#Abstract" class="headerlink" title="Abstract"></a>Abstract</h2><p>People are admitted to intensive care units (ICUs) because they need complete support for failing organ systems, constant monitoring, routine nursing care, and treatment. A critical or intensive illness is different from conventional or chronic diseases that most people are likely to have previously encountered. Such an illness is often unexpected and without warnings and can suddenly strike the previously fit. High levels of treatment and support are generally required to prevent life-threatening complications for the patents. Two of the most noticeable actions during an ICU stay are disease diagnosis and severity assessment of the patients. Unlike the majority of previous approaches where diagnosis and severity assessment are studied separately, we treat these actions as two tasks in an integrated procedure that clinicians must be able to quickly and accurately conduct such that patients are given the best possible chance for therapeutic success. In this paper, we propose an integrated disease diagnosis and severity assessment model (IDDSAM) to diagnose and assess diseases. Moreover, accompanying the prediction, we also provide an evidence-based explanation. IDDSAM is a multisource multitask model that is based on an attention mechanism and utilizes shareable information from laboratory tests, bedside monitoring, and complications to support patients’ severity assessment and in-hospital disease diagnoses. We use 50,430 ICU cases consisting of 46,520 patients from 50 kinds of diseases over nine classifications to evaluate our proposed model. The experimental results demonstrated that our model outperforms the existing state-of-the-art mortality and diagnosis prediction framework by 3.79% on average in terms of accuracy for the mortality prediction tasks and by 14.51% on average for the diagnosis tasks.</p>
-<h2 id="Attachment"><a href="#Attachment" class="headerlink" title="Attachment"></a>Attachment</h2><p><i class="fas fa-file-pdf"></i> <a href="/attachements/20_shi_iddsam.pdf">IDDSAM &#58; An Integrated Disease Diagnosis and Severity Assessment Model for Intensive Care Units</a></p>
+<h2 id="Abstract"><a href="#Abstract" class="headerlink" title="Abstract"></a>Abstract</h2><p>Advances in genetic manipulation and genome engineering techniques have enabled on-demand targeted deletion, insertion, and substitution of DNA sequences. One important step in these techniques is the design of editing sequences (e.g. primers, homologous arms) to precisely target and manipulate DNA sequences of interest. Experimental biologists can employ multiple tools in a stepwise manner to assist editing sequence design (ESD), but this requires various software involving non-standardized data exchange and input/output formats. Moreover, necessary quality control steps might be overlooked by non-expert users. This approach is low-throughput and can be error-prone, which illustrates the need for an automated ESD system. In this paper, we introduce AutoESD (<a href="https://autoesd.biodesign.ac.cn/" target="_blank" rel="noopener">https://autoesd.biodesign.ac.cn/</a>), which designs editing sequences for all steps of genetic manipulation of many common homologous-recombination techniques based on screening-markers. Notably, multiple types of manipulations for different targets (CDS or intergenic region) can be processed in one submission. Moreover, AutoESD has an entirely cloud-based serverless architecture, offering high reliability, robustness and scalability which is capable of parallelly processing hundreds of design tasks each having thousands of targets in minutes. To our knowledge, AutoESD is the first cloud platform enabling precise, automated, and high-throughput ESD across species, at any genomic locus for all manipulation types.</p>
+<h2 id="Attachment"><a href="#Attachment" class="headerlink" title="Attachment"></a>Attachment</h2><p><i class="fas fa-file-pdf"></i> <a href="/attachements/22_autoesd-gkac417.pdf">AutoESD: a web tool for automatic editing sequence design for genetic manipulation of microorganisms</a></p>
 ]]></content>
       <categories>
         <category>paper</category>
@@ -38,7 +58,28 @@
       </categories>
       <tags>
         <tag>published</tag>
-        <tag>medical data mining</tag>
+        <tag>nlp</tag>
+        <tag>journal</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>A multi-level neural network for implicit causality detection in web texts</title>
+    <url>/2023/05/20/causality/</url>
+    <content><![CDATA[<h1 id="用于网络文本隐式因果检测的多级神经网络"><a href="#用于网络文本隐式因果检测的多级神经网络" class="headerlink" title="用于网络文本隐式因果检测的多级神经网络"></a>用于网络文本隐式因果检测的多级神经网络</h1><blockquote>
+<p><i class="fas fa-file-signature"></i>   A multi-level neural network for implicit causality detection in web texts<br><i class="fas fa-bookmark"></i>   Neurocomputing<br><i class="far fa-calendar-alt"></i>   April 7, 2022.<br><i class="fas fa-user-friends"></i> Shining Liang, Wanli Zuo, <em>Zhenkun Shi*</em>, Sen Wang, Junhu Wang, Xianglin Zuo</p>
+</blockquote>
+<a id="more"></a>
+
+<h2 id="Abstract"><a href="#Abstract" class="headerlink" title="Abstract"></a>Abstract</h2><p>Mining causality from text is a complex and crucial natural language understanding task corresponding to human cognition. Existing studies on this subject can be divided into two categories: feature engineering-based and neural model-based methods. In this paper, we find that the former has incomplete coverage and intrinsic errors but provides prior knowledge, whereas the latter leverages context information but has insufficient causal inference. To address the limitations, we propose a novel causality detection model named MCDN, which explicitly models the causal reasoning process, and exploits the advantages of both methods. Specifically, we adopt multi-head self-attention to acquire semantic features at the word level and develop the SCRN to infer causality at the segment level. To the best of our knowledge, this is the first time the Relation Network is applied with regard to the causality tasks. The experimental results demonstrate that: i) the proposed method outperforms the strong baselines on causality detection; ii) further analysis manifests the effectiveness and robustness of MCDN.</p>
+<h2 id="Attachment"><a href="#Attachment" class="headerlink" title="Attachment"></a>Attachment</h2><p><i class="fas fa-file-pdf"></i> <a href="/attachements/22_liang_cauasality.pdf">A multi-level neural network for implicit causality detection in web texts</a></p>
+]]></content>
+      <categories>
+        <category>paper</category>
+        <category>journal</category>
+      </categories>
+      <tags>
+        <tag>published</tag>
+        <tag>nlp</tag>
         <tag>journal</tag>
       </tags>
   </entry>
@@ -63,89 +104,6 @@
       </tags>
   </entry>
   <entry>
-    <title>Multi-factors-based sentence ordering for cross-document fusion from multimodal content</title>
-    <url>/2017/03/27/Multi-factors-based%20sentence%20ordering%20for%20cross-document%20fusion%20from%20multimodal%20content/</url>
-    <content><![CDATA[<h1 id="深度可解释ICU死亡率预测模型"><a href="#深度可解释ICU死亡率预测模型" class="headerlink" title="深度可解释ICU死亡率预测模型"></a>深度可解释ICU死亡率预测模型</h1><blockquote>
-<p><i class="fas fa-file-signature"></i>   Multi-factors-based sentence ordering for cross-document fusion from multimodal content<br><i class="fas fa-bookmark"></i>  Neurocomputing<br><i class="fas fa-user-friends"></i> Lin Yue, <strong>Zhenkun Shi</strong>, Jiayu Han, Sen Wang, Weitong Chen, Wanli Zuo*. </p>
-</blockquote>
-<a id="more"></a>
-<h2 id="Abstract"><a href="#Abstract" class="headerlink" title="Abstract"></a>Abstract</h2><p>Organizing a coherent structure of the sentences extracted from multiple documents, guarantees the fluency and readability of the fused document. In this paper, sentence ordering problem is treated as a combinatorial optimization problem and solved with continuous Hopfield neural network (CHNN). We unify the existing factors by considering the most frequent orders temporal information, and topical relevance between local themes during overall ordering process. Specifically, ordering algorithm traverses all the local themes and locates a shortest path as the final sentence ordering. We show the results with data from Document Understanding Conferences (DUC) 2002–2005, and demonstrate the effectiveness of the developed approach compared with Random Ordering (RO), Chronological Ordering (CO), Majority Ordering (MO), and Precedence Relation Ordering (PRO).</p>
-<h2 id="Attachment"><a href="#Attachment" class="headerlink" title="Attachment"></a>Attachment</h2><p><i class="fas fa-file-pdf"></i> <a href="/attachements/17_yue_document.pdf">Multi-factors-based sentence ordering for cross-document fusion from multimodal content</a></p>
-]]></content>
-      <categories>
-        <category>paper</category>
-        <category>journal</category>
-      </categories>
-      <tags>
-        <tag>published</tag>
-        <tag>conference</tag>
-        <tag>NLP</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>A multi-level neural network for implicit causality detection in web texts</title>
-    <url>/2023/05/20/causality/</url>
-    <content><![CDATA[<h1 id="用于网络文本隐式因果检测的多级神经网络"><a href="#用于网络文本隐式因果检测的多级神经网络" class="headerlink" title="用于网络文本隐式因果检测的多级神经网络"></a>用于网络文本隐式因果检测的多级神经网络</h1><blockquote>
-<p><i class="fas fa-file-signature"></i>   A multi-level neural network for implicit causality detection in web texts<br><i class="fas fa-bookmark"></i>   Neurocomputing<br><i class="far fa-calendar-alt"></i>   April 7, 2022.<br><i class="fas fa-user-friends"></i> Shining Liang, Wanli Zuo, <em>Zhenkun Shi*</em>, Sen Wang, Junhu Wang, Xianglin Zuo</p>
-</blockquote>
-<a id="more"></a>
-
-<h2 id="Abstract"><a href="#Abstract" class="headerlink" title="Abstract"></a>Abstract</h2><p>Mining causality from text is a complex and crucial natural language understanding task corresponding to human cognition. Existing studies on this subject can be divided into two categories: feature engineering-based and neural model-based methods. In this paper, we find that the former has incomplete coverage and intrinsic errors but provides prior knowledge, whereas the latter leverages context information but has insufficient causal inference. To address the limitations, we propose a novel causality detection model named MCDN, which explicitly models the causal reasoning process, and exploits the advantages of both methods. Specifically, we adopt multi-head self-attention to acquire semantic features at the word level and develop the SCRN to infer causality at the segment level. To the best of our knowledge, this is the first time the Relation Network is applied with regard to the causality tasks. The experimental results demonstrate that: i) the proposed method outperforms the strong baselines on causality detection; ii) further analysis manifests the effectiveness and robustness of MCDN.</p>
-<h2 id="Attachment"><a href="#Attachment" class="headerlink" title="Attachment"></a>Attachment</h2><p><i class="fas fa-file-pdf"></i> <a href="/attachements/22_liang_cauasality.pdf">A multi-level neural network for implicit causality detection in web texts</a></p>
-]]></content>
-      <categories>
-        <category>paper</category>
-        <category>journal</category>
-      </categories>
-      <tags>
-        <tag>published</tag>
-        <tag>journal</tag>
-        <tag>nlp</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>AutoESD a web tool for automatic editing sequence design for genetic manipulation of microorganisms</title>
-    <url>/2023/05/22/autoesd/</url>
-    <content><![CDATA[<h1 id="AutoESD：自动编辑化基因序列设计的在线工具"><a href="#AutoESD：自动编辑化基因序列设计的在线工具" class="headerlink" title="AutoESD：自动编辑化基因序列设计的在线工具"></a>AutoESD：自动编辑化基因序列设计的在线工具</h1><blockquote>
-<p><i class="fas fa-file-signature"></i>   AutoESD: a web tool for automatic editing sequence design for genetic manipulation of microorganisms<br><i class="fas fa-bookmark"></i>   Nucleic Acids Research<br><i class="far fa-calendar-alt"></i>   October 17, 2022.<br><i class="fas fa-user-friends"></i> Yi Yang, Yufeng Mao, Ruoyu Wang, Haoran Li, Ye Liu, Haijiao Cheng, <strong>Zhenkun Shi</strong>, Yu Wang, Meng Wang, Ping Zheng, Xiaoping Liao, Hongwu Ma</p>
-</blockquote>
-<a id="more"></a>
-
-<h2 id="Abstract"><a href="#Abstract" class="headerlink" title="Abstract"></a>Abstract</h2><p>Advances in genetic manipulation and genome engineering techniques have enabled on-demand targeted deletion, insertion, and substitution of DNA sequences. One important step in these techniques is the design of editing sequences (e.g. primers, homologous arms) to precisely target and manipulate DNA sequences of interest. Experimental biologists can employ multiple tools in a stepwise manner to assist editing sequence design (ESD), but this requires various software involving non-standardized data exchange and input/output formats. Moreover, necessary quality control steps might be overlooked by non-expert users. This approach is low-throughput and can be error-prone, which illustrates the need for an automated ESD system. In this paper, we introduce AutoESD (<a href="https://autoesd.biodesign.ac.cn/" target="_blank" rel="noopener">https://autoesd.biodesign.ac.cn/</a>), which designs editing sequences for all steps of genetic manipulation of many common homologous-recombination techniques based on screening-markers. Notably, multiple types of manipulations for different targets (CDS or intergenic region) can be processed in one submission. Moreover, AutoESD has an entirely cloud-based serverless architecture, offering high reliability, robustness and scalability which is capable of parallelly processing hundreds of design tasks each having thousands of targets in minutes. To our knowledge, AutoESD is the first cloud platform enabling precise, automated, and high-throughput ESD across species, at any genomic locus for all manipulation types.</p>
-<h2 id="Attachment"><a href="#Attachment" class="headerlink" title="Attachment"></a>Attachment</h2><p><i class="fas fa-file-pdf"></i> <a href="/attachements/22_autoesd-gkac417.pdf">AutoESD: a web tool for automatic editing sequence design for genetic manipulation of microorganisms</a></p>
-]]></content>
-      <categories>
-        <category>paper</category>
-        <category>journal</category>
-      </categories>
-      <tags>
-        <tag>published</tag>
-        <tag>journal</tag>
-        <tag>nlp</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Deep dynamic imputation of clinical time series for mortality prediction</title>
-    <url>/2021/12/24/deepIMP/</url>
-    <content><![CDATA[<h1 id="用于ICU病人疾病诊断与病情严重程度评估的一个集成模型"><a href="#用于ICU病人疾病诊断与病情严重程度评估的一个集成模型" class="headerlink" title="用于ICU病人疾病诊断与病情严重程度评估的一个集成模型"></a>用于ICU病人疾病诊断与病情严重程度评估的一个集成模型</h1><blockquote>
-<p><i class="fas fa-file-signature"></i>   Deep dynamic imputation of clinical time series for mortality prediction<br><i class="fas fa-bookmark"></i>   INFORMATION SCIENCES<br><i class="fas fa-user-friends"></i> <strong>Zhenkun Shi</strong>, Sen Wang, Lin Yue, Lixin Pang, Xianglin Zuo, Wanli Zuo, Xue Li.</p>
-</blockquote>
-<a id="more"></a>
-
-<h2 id="Abstract"><a href="#Abstract" class="headerlink" title="Abstract"></a>Abstract</h2><p>Missing values in clinical time-series data are pervasive and inevitable; they not only increase the complexity and difficulty of analyzing the data but also lead to biased results. To tackle these two problems, researchers have been exploring recurrent neural network (RNN)-based methods for detecting how well missing values are addressed with the aim of achieving state-of-the-art performance. However, these methods have two practical drawbacks. 1) Handling time-series data with multiple, irregular, abnormal values is difficult. 2) The patterns that may be present in the missing clinical data are not thoroughly considered. Moreover, to the best of our knowledge, none of these methods have been explicitly designed to dynamically optimize the imputation quality for better performance in the realm of clinical time-series analytics. By considering the quality of imputed values, we propose a 2-step integrated imputation-prediction model based on gated recurrent units (GRUs) for medical prediction tasks. In the first step, the missing values are imputed using a sophisticated model based on a replenished GRU with a hidden state decay mechanism (RGRU-D), which is followed by evaluation through two additional layers. In the second step, the optimized imputed values are used to predict the risk of mortality in critical patients. Our model effectively supplies missing values for the masking, time interval, bursty, and cumulative missing rate variables within an integrated deep architecture. Extensive experiments on a real-world ICU dataset demonstrate that our model performs better than the compared methods in terms of the imputation quality and prediction accuracy. (c) 2021 Elsevier Inc. All rights reserved.</p>
-<h2 id="Attachment"><a href="#Attachment" class="headerlink" title="Attachment"></a>Attachment</h2><p><i class="fas fa-file-pdf"></i> <a href="/attachements/21_shi_imputation.pdf">Deep dynamic imputation of clinical time series for mortality prediction</a></p>
-]]></content>
-      <categories>
-        <category>paper</category>
-        <category>journal</category>
-      </categories>
-      <tags>
-        <tag>published</tag>
-        <tag>medical data mining</tag>
-        <tag>journal</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>Discriminative Features Generation for Mortality Prediction in ICU</title>
     <url>/2021/12/24/dfsgeneration/</url>
     <content><![CDATA[<h1 id="ICU死亡率预测的判别特征生成"><a href="#ICU死亡率预测的判别特征生成" class="headerlink" title="ICU死亡率预测的判别特征生成"></a>ICU死亡率预测的判别特征生成</h1><blockquote>
@@ -163,20 +121,20 @@
       </categories>
       <tags>
         <tag>published</tag>
-        <tag>medical data mining</tag>
         <tag>conference</tag>
+        <tag>medical data mining</tag>
       </tags>
   </entry>
   <entry>
-    <title>Construction and Analysis of an Enzyme-Constrained Metabolic Model of Corynebacterium glutamicum</title>
-    <url>/2023/05/20/corynebacterium22/</url>
-    <content><![CDATA[<h1 id="谷氨酸棒杆菌酶约束代谢模型的构建与分析"><a href="#谷氨酸棒杆菌酶约束代谢模型的构建与分析" class="headerlink" title="谷氨酸棒杆菌酶约束代谢模型的构建与分析"></a>谷氨酸棒杆菌酶约束代谢模型的构建与分析</h1><blockquote>
-<p><i class="fas fa-file-signature"></i>   Construction and Analysis of an Enzyme-Constrained Metabolic Model of Corynebacterium glutamicum<br><i class="fas fa-bookmark"></i>   Biomolecules<br><i class="far fa-calendar-alt"></i>   October 17, 2022.<br><i class="fas fa-user-friends"></i> Jinhui Niu, Zhitao Mao, Yufeng Mao, Ke Wu, <strong>Zhenkun Shi</strong>, Qianqian Yuan, Jingyi Cai, Hongwu Ma*</p>
+    <title>IDDSAM &amp;#58; An Integrated Disease Diagnosis and Severity Assessment Model for Intensive Care Units</title>
+    <url>/2020/05/18/IDDSAM/</url>
+    <content><![CDATA[<h1 id="用于ICU病人疾病诊断与病情严重程度评估的一个集成模型"><a href="#用于ICU病人疾病诊断与病情严重程度评估的一个集成模型" class="headerlink" title="用于ICU病人疾病诊断与病情严重程度评估的一个集成模型"></a>用于ICU病人疾病诊断与病情严重程度评估的一个集成模型</h1><blockquote>
+<p><i class="fas fa-file-signature"></i>   IDDSAM &#58; An Integrated Disease Diagnosis and Severity Assessment Model for Intensive Care Units<br><i class="fas fa-bookmark"></i>   IEEE Access<br><i class="fas fa-user-friends"></i> <strong>Zhenkun Shi</strong>, Wanli Zuo, Shining Liang, Xianglin Zuo*, Lin Yue, Xue Li.</p>
 </blockquote>
 <a id="more"></a>
 
-<h2 id="Abstract"><a href="#Abstract" class="headerlink" title="Abstract"></a>Abstract</h2><p>The genome-scale metabolic model (GEM) is a powerful tool for interpreting and predicting cellular phenotypes under various environmental and genetic perturbations. However, GEM only considers stoichiometric constraints, and the simulated growth and product yield values will show a monotonic linear increase with increasing substrate uptake rate, which deviates from the experimentally measured values. Recently, the integration of enzymatic constraints into stoichiometry-based GEMs was proven to be effective in making novel discoveries and predicting new engineering targets. Here, we present the first genome-scale enzyme-constrained model (ecCGL1) for Corynebacterium glutamicum reconstructed by integrating enzyme kinetic data from various sources using a ECMpy workflow based on the high-quality GEM of C. glutamicum (obtained by modifying the iCW773 model). The enzyme-constrained model improved the prediction of phenotypes and simulated overflow metabolism, while also recapitulating the trade-off between biomass yield and enzyme usage efficiency. Finally, we used the ecCGL1 to identify several gene modification targets for l-lysine production, most of which agree with previously reported genes. This study shows that incorporating enzyme kinetic information into the GEM enhances the cellular phenotypes prediction of C. glutamicum, which can help identify key enzymes and thus provide reliable guidance for metabolic engineering.</p>
-<h2 id="Attachment"><a href="#Attachment" class="headerlink" title="Attachment"></a>Attachment</h2><p><i class="fas fa-file-pdf"></i> <a href="/attachements/22_biomolecules-12-01499.pdf">Construction and Analysis of an Enzyme-Constrained Metabolic Model of Corynebacterium glutamicum</a></p>
+<h2 id="Abstract"><a href="#Abstract" class="headerlink" title="Abstract"></a>Abstract</h2><p>People are admitted to intensive care units (ICUs) because they need complete support for failing organ systems, constant monitoring, routine nursing care, and treatment. A critical or intensive illness is different from conventional or chronic diseases that most people are likely to have previously encountered. Such an illness is often unexpected and without warnings and can suddenly strike the previously fit. High levels of treatment and support are generally required to prevent life-threatening complications for the patents. Two of the most noticeable actions during an ICU stay are disease diagnosis and severity assessment of the patients. Unlike the majority of previous approaches where diagnosis and severity assessment are studied separately, we treat these actions as two tasks in an integrated procedure that clinicians must be able to quickly and accurately conduct such that patients are given the best possible chance for therapeutic success. In this paper, we propose an integrated disease diagnosis and severity assessment model (IDDSAM) to diagnose and assess diseases. Moreover, accompanying the prediction, we also provide an evidence-based explanation. IDDSAM is a multisource multitask model that is based on an attention mechanism and utilizes shareable information from laboratory tests, bedside monitoring, and complications to support patients’ severity assessment and in-hospital disease diagnoses. We use 50,430 ICU cases consisting of 46,520 patients from 50 kinds of diseases over nine classifications to evaluate our proposed model. The experimental results demonstrated that our model outperforms the existing state-of-the-art mortality and diagnosis prediction framework by 3.79% on average in terms of accuracy for the mortality prediction tasks and by 14.51% on average for the diagnosis tasks.</p>
+<h2 id="Attachment"><a href="#Attachment" class="headerlink" title="Attachment"></a>Attachment</h2><p><i class="fas fa-file-pdf"></i> <a href="/attachements/20_shi_iddsam.pdf">IDDSAM &#58; An Integrated Disease Diagnosis and Severity Assessment Model for Intensive Care Units</a></p>
 ]]></content>
       <categories>
         <category>paper</category>
@@ -184,49 +142,8 @@
       </categories>
       <tags>
         <tag>published</tag>
+        <tag>medical data mining</tag>
         <tag>journal</tag>
-        <tag>nlp</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Prognosis of Thyroid Disease Using MS-Apriori Improved Decision Tree</title>
-    <url>/2018/05/16/thyroid/</url>
-    <content><![CDATA[<h1 id="使用MS-Apriori改进的决策树来预测甲状腺淋巴癌转移"><a href="#使用MS-Apriori改进的决策树来预测甲状腺淋巴癌转移" class="headerlink" title="使用MS-Apriori改进的决策树来预测甲状腺淋巴癌转移"></a>使用MS-Apriori改进的决策树来预测甲状腺淋巴癌转移</h1><blockquote>
-<p><i class="fas fa-file-signature"></i>   Prognosis of Thyroid Disease Using MS-Apriori Improved Decision Tree<br><i class="fas fa-bookmark"></i>   KSEM 2018 : The 11th International Conference on Knowledge Science, Engineering and Management<br><i class="far fa-calendar-alt"></i>   Aug 17, 2018 - Aug 19, 2018.<br><i class="fas fa-globe"></i>   Changchun, China.<br><i class="fas fa-user-friends"></i> Yuwei Hao, Wanli Zuo, <strong>Zhenkun Shi*</strong>, Lin Yue, Shuai Xue, Fengling He.   </p>
-</blockquote>
-<a id="more"></a>
-<h2 id="Abstract"><a href="#Abstract" class="headerlink" title="Abstract"></a>Abstract</h2><p>The lymph nodes metastasis in the papillary thyroid microcarcinoma (PTMC) can lead to a recurrence of cancer. We hope to take preventive mea- sures to reduce the recurrence rate of the thyroid cancer. This paper presents a decision tree improved by MS-Apriori for the prognosis of lymph node metastasis (LNM) in patients with PTMC, called MsaDtd (Decision tree Diagnosis based on MS-Apriori). The method converts the original feature space into a more abundant feature space, MS-Apriori is used to generate association rules that consider rare items by multiple supports and fuzzy logic is introduced to map attribute values to different subintervals. Then, we filter the ranked rules which consider positive and negative tuples. We improve accuracy through deleting disturbance rules. At last, we use the decision tree to predict LNM by analyzing the affiliation between the instance and rules. Clinical-pathological data were obtained from the First Hospital of Jilin University. The results show that the proposed MsaDtd achieves better prediction performance than other methods on the prognosis of LNM.</p>
-<h2 id="Attachment"><a href="#Attachment" class="headerlink" title="Attachment"></a>Attachment</h2><p><i class="fas fa-file-pdf"></i> <a href="/attachements/18_hao.pdf">Prognosis of Thyroid Disease Using MS-Apriori Improved Decision Tree</a></p>
-]]></content>
-      <categories>
-        <category>paper</category>
-        <category>conference</category>
-      </categories>
-      <tags>
-        <tag>published</tag>
-        <tag>medical data mining</tag>
-        <tag>conference</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>DMMAM &amp;#58; Deep Multi-Source Multi-Task Attention Model for Intensive Care Unit Diagnosis</title>
-    <url>/2019/04/25/dmmam/</url>
-    <content><![CDATA[<h1 id="基于Attention的多源多任务ICU疾病诊断模型"><a href="#基于Attention的多源多任务ICU疾病诊断模型" class="headerlink" title="基于Attention的多源多任务ICU疾病诊断模型"></a>基于Attention的多源多任务ICU疾病诊断模型</h1><blockquote>
-<p><i class="fas fa-file-signature"></i>   DMMAM &#58; Deep Multi-Source Multi-Task Attention Model for Intensive Care Unit Diagnosis<br><i class="fas fa-bookmark"></i>   DASFAA 2019: Database Systems for Advanced Applications<br><i class="far fa-calendar-alt"></i>   Apr 22, 2019 - Apr 25, 2019.<br><i class="fas fa-globe"></i>   Chiang Mai, Thailand<br><i class="fas fa-user-friends"></i> <strong>Zhenkun Shi</strong>, Wanli Zuo, Weitong Chen, Lin Yue, Yuwei Hao, Shining Liang*.</p>
-</blockquote>
-<a id="more"></a>
-
-<h2 id="Abstract"><a href="#Abstract" class="headerlink" title="Abstract"></a>Abstract</h2><p>Disease diagnosis can provide crucial information for clin- ical decisions that influence the outcome in acute serious illness, and this is particularly in the intensive care unit (ICU). However, the cen- tral role of diagnosis in clinical practice is challenged by evidence that does not always benefit patients and that factors other than disease are important in determining patient outcome. To streamline the diagnos- tic process in daily routine and avoid misdiagnoses, in this paper, we proposed a deep multi-source multi-task attention model (DMMAM) for ICU disease diagnosis. DMMAM exploits multi-sources information from various types of complications, clinical measurements, and the medical treatments to support the diagnosis. We evaluate the proposed model with 50 diseases of 9 classifications on an extensive collection of real- world ICU Electronic Health Records (EHR) dataset with 151729 ICU admissions from 46520 patients. Experiments results demonstrate the effectiveness and the robustness of our model.</p>
-<h2 id="Attachment"><a href="#Attachment" class="headerlink" title="Attachment"></a>Attachment</h2><p><i class="fas fa-file-pdf"></i> <a href="/attachements/19_shi_dmmam.pdf">DMMAM &#58; Deep Multi-Source Multi-Task Attention Model for Intensive Care Unit Diagnosis</a></p>
-]]></content>
-      <categories>
-        <category>paper</category>
-        <category>conference</category>
-      </categories>
-      <tags>
-        <tag>published</tag>
-        <tag>medical data mining</tag>
-        <tag>conference</tag>
       </tags>
   </entry>
   <entry>
@@ -251,6 +168,27 @@
       </tags>
   </entry>
   <entry>
+    <title>DMMAM &amp;#58; Deep Multi-Source Multi-Task Attention Model for Intensive Care Unit Diagnosis</title>
+    <url>/2019/04/25/dmmam/</url>
+    <content><![CDATA[<h1 id="基于Attention的多源多任务ICU疾病诊断模型"><a href="#基于Attention的多源多任务ICU疾病诊断模型" class="headerlink" title="基于Attention的多源多任务ICU疾病诊断模型"></a>基于Attention的多源多任务ICU疾病诊断模型</h1><blockquote>
+<p><i class="fas fa-file-signature"></i>   DMMAM &#58; Deep Multi-Source Multi-Task Attention Model for Intensive Care Unit Diagnosis<br><i class="fas fa-bookmark"></i>   DASFAA 2019: Database Systems for Advanced Applications<br><i class="far fa-calendar-alt"></i>   Apr 22, 2019 - Apr 25, 2019.<br><i class="fas fa-globe"></i>   Chiang Mai, Thailand<br><i class="fas fa-user-friends"></i> <strong>Zhenkun Shi</strong>, Wanli Zuo, Weitong Chen, Lin Yue, Yuwei Hao, Shining Liang*.</p>
+</blockquote>
+<a id="more"></a>
+
+<h2 id="Abstract"><a href="#Abstract" class="headerlink" title="Abstract"></a>Abstract</h2><p>Disease diagnosis can provide crucial information for clin- ical decisions that influence the outcome in acute serious illness, and this is particularly in the intensive care unit (ICU). However, the cen- tral role of diagnosis in clinical practice is challenged by evidence that does not always benefit patients and that factors other than disease are important in determining patient outcome. To streamline the diagnos- tic process in daily routine and avoid misdiagnoses, in this paper, we proposed a deep multi-source multi-task attention model (DMMAM) for ICU disease diagnosis. DMMAM exploits multi-sources information from various types of complications, clinical measurements, and the medical treatments to support the diagnosis. We evaluate the proposed model with 50 diseases of 9 classifications on an extensive collection of real- world ICU Electronic Health Records (EHR) dataset with 151729 ICU admissions from 46520 patients. Experiments results demonstrate the effectiveness and the robustness of our model.</p>
+<h2 id="Attachment"><a href="#Attachment" class="headerlink" title="Attachment"></a>Attachment</h2><p><i class="fas fa-file-pdf"></i> <a href="/attachements/19_shi_dmmam.pdf">DMMAM &#58; Deep Multi-Source Multi-Task Attention Model for Intensive Care Unit Diagnosis</a></p>
+]]></content>
+      <categories>
+        <category>paper</category>
+        <category>conference</category>
+      </categories>
+      <tags>
+        <tag>published</tag>
+        <tag>conference</tag>
+        <tag>medical data mining</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Joint Personalized Markov Chains with Social Network Embedding for Cold-Start Recommendation</title>
     <url>/2020/05/13/jointMarkov/</url>
     <content><![CDATA[<h1 id="利用联合个性化的马尔可夫链和社交网络嵌入解决推荐中的冷启动问题"><a href="#利用联合个性化的马尔可夫链和社交网络嵌入解决推荐中的冷启动问题" class="headerlink" title="利用联合个性化的马尔可夫链和社交网络嵌入解决推荐中的冷启动问题"></a>利用联合个性化的马尔可夫链和社交网络嵌入解决推荐中的冷启动问题</h1><blockquote>
@@ -271,6 +209,68 @@
       </tags>
   </entry>
   <entry>
+    <title>Deep dynamic imputation of clinical time series for mortality prediction</title>
+    <url>/2021/12/24/deepIMP/</url>
+    <content><![CDATA[<h1 id="用于ICU病人疾病诊断与病情严重程度评估的一个集成模型"><a href="#用于ICU病人疾病诊断与病情严重程度评估的一个集成模型" class="headerlink" title="用于ICU病人疾病诊断与病情严重程度评估的一个集成模型"></a>用于ICU病人疾病诊断与病情严重程度评估的一个集成模型</h1><blockquote>
+<p><i class="fas fa-file-signature"></i>   Deep dynamic imputation of clinical time series for mortality prediction<br><i class="fas fa-bookmark"></i>   INFORMATION SCIENCES<br><i class="fas fa-user-friends"></i> <strong>Zhenkun Shi</strong>, Sen Wang, Lin Yue, Lixin Pang, Xianglin Zuo, Wanli Zuo, Xue Li.</p>
+</blockquote>
+<a id="more"></a>
+
+<h2 id="Abstract"><a href="#Abstract" class="headerlink" title="Abstract"></a>Abstract</h2><p>Missing values in clinical time-series data are pervasive and inevitable; they not only increase the complexity and difficulty of analyzing the data but also lead to biased results. To tackle these two problems, researchers have been exploring recurrent neural network (RNN)-based methods for detecting how well missing values are addressed with the aim of achieving state-of-the-art performance. However, these methods have two practical drawbacks. 1) Handling time-series data with multiple, irregular, abnormal values is difficult. 2) The patterns that may be present in the missing clinical data are not thoroughly considered. Moreover, to the best of our knowledge, none of these methods have been explicitly designed to dynamically optimize the imputation quality for better performance in the realm of clinical time-series analytics. By considering the quality of imputed values, we propose a 2-step integrated imputation-prediction model based on gated recurrent units (GRUs) for medical prediction tasks. In the first step, the missing values are imputed using a sophisticated model based on a replenished GRU with a hidden state decay mechanism (RGRU-D), which is followed by evaluation through two additional layers. In the second step, the optimized imputed values are used to predict the risk of mortality in critical patients. Our model effectively supplies missing values for the masking, time interval, bursty, and cumulative missing rate variables within an integrated deep architecture. Extensive experiments on a real-world ICU dataset demonstrate that our model performs better than the compared methods in terms of the imputation quality and prediction accuracy. (c) 2021 Elsevier Inc. All rights reserved.</p>
+<h2 id="Attachment"><a href="#Attachment" class="headerlink" title="Attachment"></a>Attachment</h2><p><i class="fas fa-file-pdf"></i> <a href="/attachements/21_shi_imputation.pdf">Deep dynamic imputation of clinical time series for mortality prediction</a></p>
+]]></content>
+      <categories>
+        <category>paper</category>
+        <category>journal</category>
+      </categories>
+      <tags>
+        <tag>published</tag>
+        <tag>medical data mining</tag>
+        <tag>journal</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Construction and Analysis of an Enzyme-Constrained Metabolic Model of Corynebacterium glutamicum</title>
+    <url>/2023/05/20/corynebacterium22/</url>
+    <content><![CDATA[<h1 id="谷氨酸棒杆菌酶约束代谢模型的构建与分析"><a href="#谷氨酸棒杆菌酶约束代谢模型的构建与分析" class="headerlink" title="谷氨酸棒杆菌酶约束代谢模型的构建与分析"></a>谷氨酸棒杆菌酶约束代谢模型的构建与分析</h1><blockquote>
+<p><i class="fas fa-file-signature"></i>   Construction and Analysis of an Enzyme-Constrained Metabolic Model of Corynebacterium glutamicum<br><i class="fas fa-bookmark"></i>   Biomolecules<br><i class="far fa-calendar-alt"></i>   October 17, 2022.<br><i class="fas fa-user-friends"></i> Jinhui Niu, Zhitao Mao, Yufeng Mao, Ke Wu, <strong>Zhenkun Shi</strong>, Qianqian Yuan, Jingyi Cai, Hongwu Ma*</p>
+</blockquote>
+<a id="more"></a>
+
+<h2 id="Abstract"><a href="#Abstract" class="headerlink" title="Abstract"></a>Abstract</h2><p>The genome-scale metabolic model (GEM) is a powerful tool for interpreting and predicting cellular phenotypes under various environmental and genetic perturbations. However, GEM only considers stoichiometric constraints, and the simulated growth and product yield values will show a monotonic linear increase with increasing substrate uptake rate, which deviates from the experimentally measured values. Recently, the integration of enzymatic constraints into stoichiometry-based GEMs was proven to be effective in making novel discoveries and predicting new engineering targets. Here, we present the first genome-scale enzyme-constrained model (ecCGL1) for Corynebacterium glutamicum reconstructed by integrating enzyme kinetic data from various sources using a ECMpy workflow based on the high-quality GEM of C. glutamicum (obtained by modifying the iCW773 model). The enzyme-constrained model improved the prediction of phenotypes and simulated overflow metabolism, while also recapitulating the trade-off between biomass yield and enzyme usage efficiency. Finally, we used the ecCGL1 to identify several gene modification targets for l-lysine production, most of which agree with previously reported genes. This study shows that incorporating enzyme kinetic information into the GEM enhances the cellular phenotypes prediction of C. glutamicum, which can help identify key enzymes and thus provide reliable guidance for metabolic engineering.</p>
+<h2 id="Attachment"><a href="#Attachment" class="headerlink" title="Attachment"></a>Attachment</h2><p><i class="fas fa-file-pdf"></i> <a href="/attachements/22_biomolecules-12-01499.pdf">Construction and Analysis of an Enzyme-Constrained Metabolic Model of Corynebacterium glutamicum</a></p>
+]]></content>
+      <categories>
+        <category>paper</category>
+        <category>journal</category>
+      </categories>
+      <tags>
+        <tag>published</tag>
+        <tag>nlp</tag>
+        <tag>journal</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Prognosis of Thyroid Disease Using MS-Apriori Improved Decision Tree</title>
+    <url>/2018/05/16/thyroid/</url>
+    <content><![CDATA[<h1 id="使用MS-Apriori改进的决策树来预测甲状腺淋巴癌转移"><a href="#使用MS-Apriori改进的决策树来预测甲状腺淋巴癌转移" class="headerlink" title="使用MS-Apriori改进的决策树来预测甲状腺淋巴癌转移"></a>使用MS-Apriori改进的决策树来预测甲状腺淋巴癌转移</h1><blockquote>
+<p><i class="fas fa-file-signature"></i>   Prognosis of Thyroid Disease Using MS-Apriori Improved Decision Tree<br><i class="fas fa-bookmark"></i>   KSEM 2018 : The 11th International Conference on Knowledge Science, Engineering and Management<br><i class="far fa-calendar-alt"></i>   Aug 17, 2018 - Aug 19, 2018.<br><i class="fas fa-globe"></i>   Changchun, China.<br><i class="fas fa-user-friends"></i> Yuwei Hao, Wanli Zuo, <strong>Zhenkun Shi*</strong>, Lin Yue, Shuai Xue, Fengling He.   </p>
+</blockquote>
+<a id="more"></a>
+<h2 id="Abstract"><a href="#Abstract" class="headerlink" title="Abstract"></a>Abstract</h2><p>The lymph nodes metastasis in the papillary thyroid microcarcinoma (PTMC) can lead to a recurrence of cancer. We hope to take preventive mea- sures to reduce the recurrence rate of the thyroid cancer. This paper presents a decision tree improved by MS-Apriori for the prognosis of lymph node metastasis (LNM) in patients with PTMC, called MsaDtd (Decision tree Diagnosis based on MS-Apriori). The method converts the original feature space into a more abundant feature space, MS-Apriori is used to generate association rules that consider rare items by multiple supports and fuzzy logic is introduced to map attribute values to different subintervals. Then, we filter the ranked rules which consider positive and negative tuples. We improve accuracy through deleting disturbance rules. At last, we use the decision tree to predict LNM by analyzing the affiliation between the instance and rules. Clinical-pathological data were obtained from the First Hospital of Jilin University. The results show that the proposed MsaDtd achieves better prediction performance than other methods on the prognosis of LNM.</p>
+<h2 id="Attachment"><a href="#Attachment" class="headerlink" title="Attachment"></a>Attachment</h2><p><i class="fas fa-file-pdf"></i> <a href="/attachements/18_hao.pdf">Prognosis of Thyroid Disease Using MS-Apriori Improved Decision Tree</a></p>
+]]></content>
+      <categories>
+        <category>paper</category>
+        <category>conference</category>
+      </categories>
+      <tags>
+        <tag>published</tag>
+        <tag>conference</tag>
+        <tag>medical data mining</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Social Bayesian personal ranking for missing data in implicit feedback recommendation</title>
     <url>/2018/05/21/sbpranking/</url>
     <content><![CDATA[<h1 id="在含缺失数据的隐式反馈推荐中的个人社会贝叶斯排名"><a href="#在含缺失数据的隐式反馈推荐中的个人社会贝叶斯排名" class="headerlink" title="在含缺失数据的隐式反馈推荐中的个人社会贝叶斯排名"></a>在含缺失数据的隐式反馈推荐中的个人社会贝叶斯排名</h1><blockquote>
@@ -287,9 +287,14 @@
       </categories>
       <tags>
         <tag>published</tag>
-        <tag>medical data mining</tag>
         <tag>conference</tag>
+        <tag>medical data mining</tag>
       </tags>
+  </entry>
+  <entry>
+    <title>categories</title>
+    <url>/categories/index.html</url>
+    <content><![CDATA[]]></content>
   </entry>
   <entry>
     <title>About Me</title>
@@ -382,12 +387,12 @@
 </tr>
 </tbody></table>
 <h2 id="学术论文"><a href="#学术论文" class="headerlink" title="学术论文"></a>学术论文</h2><h3 id="2025"><a href="#2025" class="headerlink" title="2025"></a>2025</h3><ol>
-<li>Jiao Liu, Xiaojia Zhao, Haijiao Cheng, Yanmei Guo, Xiaomeng Ni, Lixian Wang, Guannan Sun, Xiao Wen, Jiuzhou Chen, Jin Wang, Jingjing An, Xuan Guo, <strong>Zhenkun Shi</strong>, Haoran Li, Ruoyu Wang, Muqiang Zhao, Xiaoping Liao, Yu Wang, Ping Zheng<sup>✉️</sup>, Meng Wang<sup>✉️</sup>, Jibin Sun Comprehensive screening of industrially relevant components at genome scale using a high-quality gene overexpression collection of Corynebacterium glutamicum [J]. Trends in Biotechnology, 2025, 43(1): 220-247.  (SCI 一区, IF:14.3). [<a href="/attachements/25_trends.pdf">📄Paper</a>]</li>
-<li>Yijia Zhang, Wanyu Chen<sup>✉️</sup>, Fei Cai, <strong>Zhenkun Shi</strong>, Feng Qi. DMR: disentangled and denoised learning for multi-behavior recommendation [J]. Complex &amp; Intelligent Systems , 2025, 11(2): 1-23. (SCI Q1, IF: 5.0). [<a href="/attachements/25_dmr.pdf">📄Paper</a>]</li>
+<li>Jiao Liu, Xiaojia Zhao, Haijiao Cheng, Yanmei Guo, Xiaomeng Ni, Lixian Wang, Guannan Sun, Xiao Wen, Jiuzhou Chen, Jin Wang, Jingjing An, Xuan Guo, <strong>Zhenkun Shi</strong>, Haoran Li, Ruoyu Wang, Muqiang Zhao, Xiaoping Liao, Yu Wang, Ping Zheng<sup>✉</sup>, Meng Wang<sup>✉</sup>, Jibin Sun Comprehensive screening of industrially relevant components at genome scale using a high-quality gene overexpression collection of Corynebacterium glutamicum [J]. Trends in Biotechnology, 2025, 43(1): 220-247.  (SCI 一区, IF:14.3). [<a href="/attachements/25_trends.pdf">📄Paper</a>]</li>
+<li>Yijia Zhang, Wanyu Chen<sup>✉</sup>, Fei Cai, <strong>Zhenkun Shi</strong>, Feng Qi. DMR: disentangled and denoised learning for multi-behavior recommendation [J]. Complex &amp; Intelligent Systems , 2025, 11(2): 1-23. (SCI Q1, IF: 5.0). [<a href="/attachements/25_dmr.pdf">📄Paper</a>]</li>
 </ol>
 <h3 id="2024"><a href="#2024" class="headerlink" title="2024"></a>2024</h3><ol>
-<li><strong>Zhenkun Shi</strong>, Dehang Wang, Yang Li, Rui Deng, Jiawei Lin, Cui Liu, Haoran Li, Ruoyu Wang, Muqiang Zhao, Zhitao Mao, Qianqian Yuan, Xiaoping Liao<sup>✉️</sup>, Hongwu Ma<sup>✉️</sup>. REME: an integrated platform for reaction enzyme mining and evaluation [J]. Nucleic Acids Research (2024): gkae405.  (SCI 一区, IF:16.6)</li>
-<li>Rui Deng, Ke Wu, Jiawei Lin, Dehang Wang, Yuanyuan Huang, Yang Li, <strong>Zhenkun Shi</strong>, Zihan Zhang, Zhiwen Wang, Zhitao Mao, Xiaoping Liao<sup>✉️</sup>, Hongwu Ma<sup>✉️</sup>. DeepSub: Utilizing Deep Learning for Predicting the Number of Subunits in Homo-Oligomeric Protein Complexes [J]. International Journal of Molecular Sciences 25.9 (2024): 4803. (SCI 二区, IF:4.9)</li>
+<li><strong>Zhenkun Shi</strong>, Dehang Wang, Yang Li, Rui Deng, Jiawei Lin, Cui Liu, Haoran Li, Ruoyu Wang, Muqiang Zhao, Zhitao Mao, Qianqian Yuan, Xiaoping Liao<sup>✉</sup>, Hongwu Ma<sup>✉</sup>. REME: an integrated platform for reaction enzyme mining and evaluation [J]. Nucleic Acids Research (2024): gkae405.  (SCI 一区, IF:16.6)</li>
+<li>Rui Deng, Ke Wu, Jiawei Lin, Dehang Wang, Yuanyuan Huang, Yang Li, <strong>Zhenkun Shi</strong>, Zihan Zhang, Zhiwen Wang, Zhitao Mao, Xiaoping Liao<sup>✉</sup>, Hongwu Ma<sup>✉</sup>. DeepSub: Utilizing Deep Learning for Predicting the Number of Subunits in Homo-Oligomeric Protein Complexes [J]. International Journal of Molecular Sciences 25.9 (2024): 4803. (SCI 二区, IF:4.9)</li>
 <li>Yuanyuan Huang, Zhitao Mao, Yue Zhang, Jianxiao Zhao, Xiaodi Luan, Ke Wu, Lili Yun, Jing Yu, <strong>Zhenkun Shi</strong>, Xiaoping Liao<em>, Hongwu Ma</em>. Omics data analysis reveals the system-level constraint on cellular amino acid composition. Synthetic and Systems Biotechnology  [J], 9(2), 304-311. (SCI 二区, IF:4.4)</li>
 </ol>
 <h3 id="2023"><a href="#2023" class="headerlink" title="2023"></a>2023</h3><ol>
@@ -524,11 +529,6 @@
 </tr>
 </tbody></table>
 ]]></content>
-  </entry>
-  <entry>
-    <title>categories</title>
-    <url>/categories/index.html</url>
-    <content><![CDATA[]]></content>
   </entry>
   <entry>
     <title>tags</title>
