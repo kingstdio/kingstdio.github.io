@@ -3,14 +3,14 @@
 
 
     <url>
-        <loc>http://shizhenkun.cn/tags/journal/</loc>
+        <loc>http://shizhenkun.cn/tags/nlp/</loc>
         <lastmod>2023-05-22T01:34:48.109Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>http://shizhenkun.cn/tags/nlp/</loc>
+        <loc>http://shizhenkun.cn/tags/journal/</loc>
         <lastmod>2023-05-22T01:34:48.109Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -24,14 +24,14 @@
     </url>
 
     <url>
-        <loc>http://shizhenkun.cn/tags/medical-data-mining/</loc>
+        <loc>http://shizhenkun.cn/tags/conference/</loc>
         <lastmod>2023-05-20T05:28:21.590Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>http://shizhenkun.cn/tags/conference/</loc>
+        <loc>http://shizhenkun.cn/tags/medical-data-mining/</loc>
         <lastmod>2023-05-20T05:28:21.590Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
